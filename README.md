@@ -1,94 +1,57 @@
-# 📊 Data Analytics Portfolio
+# Data & Business Analytics Portfolio
 
-> **Roles Covered:** Data Analyst · Business Analyst · Data Engineer  
-> **Stack:** Python · SQL · Excel · ETL Pipelines · Data Warehouse · Data Lake · Dashboards
-
----
-
-## 👤 About
-
-This repository showcases industry-level projects across three high-demand data roles. Each project is built with real-world workflows, clean code, and production-style documentation.
+Python · SQL · ETL Pipelines · Data Warehousing · ML · Dashboards
 
 ---
 
-## 📁 Repository Structure
+## Structure
 
-```
-data-analytics-portfolio/
-│
-├── data-analyst/
-│   ├── 01_social_media_eda/          # Exploratory Data Analysis on social media metrics
-│   ├── 02_sales_dashboard/           # Sales performance dashboard with Python & Excel
-│   └── 03_cohort_analysis/           # User retention cohort analysis
-│
-├── business-analyst/
-│   ├── 01_return_rate_analysis/      # E-commerce return rate root cause analysis
-│   ├── 02_kpi_reporting/             # Automated KPI reporting pipeline
-│   └── 03_churn_analysis/            # Customer churn prediction & BA reporting
-│
-├── data-engineer/
-│   ├── 01_etl_pipeline/              # End-to-end ETL pipeline (Extract→Transform→Load)
-│   ├── 02_data_warehouse/            # Star schema data warehouse design + SQL
-│   └── 03_data_lake/                 # Data lake architecture (raw/curated/serving)
-│
-└── shared/
-    └── utils/                        # Reusable utility functions across projects
-```
+| Category | What's inside |
+|---|---|
+| [🐍 Python Projects](./python-projects/) | EDA, dashboards, ML-based analysis |
+| [🗄️ SQL Projects](./sql-projects/) | CTEs, window functions, star schema DWH |
+| [📊 Visualization Projects](./visualization-projects/) | Multi-panel dashboards, business charts |
+| [⚙️ Pipeline Projects](./pipeline-projects/) | ETL pipeline, data lake (Bronze/Silver/Gold) |
+| [🏆 Major Projects](./major-projects/) | Full-stack flagship projects |
 
 ---
 
-## 🚀 Projects Overview
+## Projects at a Glance
 
-### 📈 Data Analyst
+### Python
+| Project | Skills |
+|---|---|
+| Social Media EDA | EDA, Pandas, Seaborn, heatmaps |
+| Sales Dashboard | Matplotlib GridSpec, KPIs, multi-panel |
+| Cohort Analysis | Retention pivot, curves, cohort sizing |
+| Return Rate Analysis | Root cause, segmentation, report output |
+| KPI Report Generator | Automated reporting, MoM metrics |
+| Churn Analysis + ML | Random Forest, ROC-AUC, risk scoring |
 
-| Project | Tools | Key Skills |
-|---|---|---|
-| [Social Media EDA](./data-analyst/01_social_media_eda/) | Python, Pandas, Seaborn, Matplotlib | EDA, data cleaning, visualization |
-| [Sales Dashboard](./data-analyst/02_sales_dashboard/) | Python, Excel, Matplotlib | Dashboarding, KPI tracking, pivot analysis |
-| [Cohort Analysis](./data-analyst/03_cohort_analysis/) | Python, Pandas, SQL | Retention analysis, heatmaps, business insights |
+### SQL
+| Project | Skills |
+|---|---|
+| Return Rate CTE Analysis | Multi-step CTEs, RANK(), UNION |
+| KPI Queries | LAG(), rolling avg, YoY, NPS calc |
+| Churn Scoring | Rule-based scores, CASE, risk tiers |
+| Data Warehouse DDL | Star schema, SCD Type 2, views |
 
-### 💼 Business Analyst
-
-| Project | Tools | Key Skills |
-|---|---|---|
-| [Return Rate Analysis](./business-analyst/01_return_rate_analysis/) | Python, SQL, Excel | Root cause analysis, CTEs, reporting |
-| [KPI Reporting](./business-analyst/02_kpi_reporting/) | Python, SQL, Jinja2 | Automated reporting, business metrics |
-| [Churn Analysis](./business-analyst/03_churn_analysis/) | Python, SQL, Scikit-learn | Predictive analysis, BA documentation |
-
-### ⚙️ Data Engineer
-
-| Project | Tools | Key Skills |
-|---|---|---|
-| [ETL Pipeline](./data-engineer/01_etl_pipeline/) | Python, SQL, SQLAlchemy, Airflow | ETL, data ingestion, transformations |
-| [Data Warehouse](./data-engineer/02_data_warehouse/) | SQL, Star Schema, DWH concepts | Fact/Dim tables, CTEs, window functions |
-| [Data Lake](./data-engineer/03_data_lake/) | Python, Parquet, JSON, CSV | Raw/Curated/Serving layers, partitioning |
+### Pipelines
+| Project | Skills |
+|---|---|
+| ETL Pipeline | Extract → Transform → Load, audit log |
+| Data Lake | Bronze/Silver/Gold, JSON → Parquet |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 
 ---
-
-## ⚙️ Setup
-
-```bash
-git clone https://github.com/Folckrum/data-analytics-portfolio.git
-cd data-analytics-portfolio
-pip install -r requirements.txt
-```
-
----
-
-## 📬 Contact
 
 **GitHub:** [Folckrum](https://github.com/Folckrum)
-
----
-
-*Built for placement-ready portfolio demonstration across DA · BA · DE roles.*
