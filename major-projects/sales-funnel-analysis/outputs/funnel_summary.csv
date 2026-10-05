@@ -1,0 +1,6 @@
+stage,users,pct_of_visits,step_conversion,drop_off_users
+Visit,50000,100.0,100.0,0
+Product View,30078,60.2,60.2,19922
+Add to Cart,12239,24.5,40.7,17839
+Checkout,3538,7.1,28.9,8701
+Purchase,734,1.5,20.7,2804

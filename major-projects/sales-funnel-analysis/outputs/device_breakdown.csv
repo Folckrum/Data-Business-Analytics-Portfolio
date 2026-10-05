@@ -1,0 +1,4 @@
+device,visits,purchases,cart_adds,checkouts,overall_conv_pct,checkout_to_purchase
+Desktop,17698,242,4314,1238,1.37,19.55
+Mobile,27453,416,6703,1958,1.52,21.25
+Tablet,4849,76,1222,342,1.57,22.22
