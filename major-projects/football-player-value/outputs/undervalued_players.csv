@@ -1,0 +1,16 @@
+name,position,league,age,goals,assists,avg_rating,market_value_m,predicted_value_m,value_gap_m
+Player_0724,ST,Premier League,24,19,2,6.4,52.1,64.63,12.53
+Player_0755,CM,Premier League,18,5,10,7.0,26.13,37.28,11.15
+Player_0747,LW,Ligue 1,30,16,12,6.5,30.37,39.73,9.36
+Player_0629,ST,Ligue 1,16,24,5,7.2,25.54,34.74,9.2
+Player_0761,LW,Premier League,24,22,14,7.0,51.74,60.8,9.06
+Player_0491,CAM,Serie A,30,21,21,7.1,41.44,50.32,8.88
+Player_0745,CAM,Ligue 1,23,12,16,6.4,30.05,37.54,7.49
+Player_0784,ST,Premier League,18,20,4,6.0,39.11,46.42,7.31
+Player_0245,RW,Bundesliga,16,31,10,7.0,28.86,35.61,6.75
+Player_0645,RW,Bundesliga,30,19,10,7.1,40.25,46.94,6.69
+Player_0067,CB,Bundesliga,21,2,5,7.6,17.51,23.28,5.77
+Player_0276,GK,La Liga,26,3,0,6.9,18.58,24.23,5.65
+Player_0303,ST,Ligue 1,26,19,0,7.8,39.65,45.25,5.6
+Player_0487,CAM,Ligue 1,32,16,9,7.3,28.82,34.36,5.54
+Player_0050,CM,Serie A,19,3,12,6.7,22.53,28.02,5.49

@@ -1,0 +1,801 @@
+name,age,position,league,nationality,preferred_foot,appearances,goals,assists,goals_per_90,assists_per_90,avg_rating,pass_accuracy,dribbles_per_90,tackles_per_90,contract_years_left,international,int_caps,weeks_injured,market_value_m
+Player_0001,19,LB,Serie A,Belgian,Right,21,3,1,0.14,0.05,7.2,78.0,2.6,2.0,4,0,0,1,16.43
+Player_0002,20,CM,Serie A,Argentine,Right,39,4,8,0.1,0.21,7.5,74.3,4.1,1.4,4,0,0,0,23.98
+Player_0003,26,LW,Ligue 1,Italian,Left,35,11,4,0.31,0.11,7.1,86.1,3.4,3.2,1,1,23,2,34.79
+Player_0004,27,GK,Serie A,German,Right,33,2,5,0.06,0.15,7.3,87.2,0.6,0.9,3,0,0,2,17.75
+Player_0005,21,LW,Ligue 1,Italian,Right,41,21,6,0.51,0.15,6.1,82.7,3.7,3.6,4,0,0,4,26.14
+Player_0006,27,GK,Serie A,Spanish,Right,41,4,2,0.1,0.05,7.2,71.8,1.7,1.5,4,0,0,3,17.24
+Player_0007,28,LB,Ligue 1,French,Right,21,5,3,0.24,0.14,6.1,95.5,3.9,1.6,2,0,0,2,17.48
+Player_0008,24,LB,Serie A,Argentine,Left,35,8,1,0.23,0.03,7.8,96.0,1.6,3.0,2,0,0,3,23.06
+Player_0009,24,RB,Serie A,English,Right,33,1,1,0.03,0.03,7.5,82.0,1.2,1.8,2,0,0,2,20.4
+Player_0010,22,CM,Ligue 1,English,Right,36,7,10,0.19,0.28,5.9,80.3,4.2,2.0,2,0,0,0,26.68
+Player_0011,20,RW,Premier League,Italian,Right,41,21,7,0.51,0.17,6.7,88.3,3.7,3.5,3,1,18,3,53.09
+Player_0012,21,LW,Premier League,Brazilian,Right,38,10,11,0.26,0.29,8.4,68.9,1.7,2.4,1,0,0,2,51.37
+Player_0013,22,CB,Ligue 1,Portuguese,Right,40,5,3,0.12,0.07,6.2,78.7,2.7,3.0,2,0,0,2,15.87
+Player_0014,21,RW,Ligue 1,Portuguese,Right,44,17,10,0.39,0.23,6.6,80.2,2.5,2.2,3,1,23,1,32.99
+Player_0015,22,CB,Ligue 1,Italian,Right,38,3,9,0.08,0.24,7.3,78.6,1.8,3.5,3,0,0,3,19.67
+Player_0016,24,CDM,Ligue 1,Italian,Right,36,3,6,0.08,0.17,6.6,90.1,1.5,1.8,2,0,0,2,20.66
+Player_0017,22,CM,Premier League,English,Right,40,5,11,0.12,0.28,7.6,84.3,3.3,3.9,4,0,0,1,41.32
+Player_0018,30,LB,Ligue 1,German,Right,26,4,4,0.15,0.15,6.6,80.5,2.2,1.4,1,0,0,2,15.79
+Player_0019,19,GK,Premier League,Portuguese,Right,40,4,4,0.1,0.1,7.5,78.7,1.7,4.0,3,0,0,2,17.44
+Player_0020,21,CDM,Serie A,Italian,Right,24,2,3,0.08,0.12,7.2,95.1,0.8,3.8,1,0,0,2,21.61
+Player_0021,19,RB,La Liga,Spanish,Right,20,9,0,0.45,0.0,7.1,74.5,4.3,2.6,1,1,23,6,23.02
+Player_0022,23,RB,La Liga,Portuguese,Right,30,6,5,0.2,0.17,6.7,79.6,3.4,2.4,4,0,0,3,25.61
+Player_0023,23,ST,Ligue 1,French,Right,25,26,1,1.04,0.04,7.9,69.7,3.3,1.1,1,1,14,2,46.71
+Player_0024,29,CAM,Ligue 1,English,Right,41,15,9,0.37,0.22,6.1,80.7,2.4,2.9,2,1,16,0,35.18
+Player_0025,24,ST,Premier League,Italian,Left,43,21,4,0.49,0.09,7.0,92.7,1.5,1.4,3,0,0,3,53.3
+Player_0026,16,CB,La Liga,Argentine,Right,29,5,5,0.17,0.17,6.5,72.3,1.8,3.8,2,0,0,1,16.91
+Player_0027,24,LW,Bundesliga,German,Right,21,25,14,1.19,0.67,7.5,86.5,2.6,3.0,3,0,0,2,41.64
+Player_0028,20,CM,Premier League,Italian,Right,28,6,6,0.21,0.21,6.6,96.0,3.9,3.1,3,0,0,0,36.73
+Player_0029,24,CM,Bundesliga,Portuguese,Right,23,6,7,0.26,0.3,7.2,68.9,3.5,2.3,1,0,0,3,34.12
+Player_0030,22,RW,Bundesliga,Argentine,Left,29,18,10,0.62,0.34,7.2,79.1,1.3,3.0,1,0,0,6,41.44
+Player_0031,22,LW,Ligue 1,Belgian,Right,21,22,9,1.05,0.43,6.4,74.6,4.1,2.5,3,0,0,2,32.44
+Player_0032,21,CAM,Premier League,English,Right,35,16,14,0.46,0.4,7.3,83.6,0.8,0.9,4,0,0,2,58.23
+Player_0033,34,RW,La Liga,Portuguese,Right,40,17,10,0.42,0.25,7.3,79.6,1.4,2.1,2,1,17,2,36.25
+Player_0034,30,RW,Premier League,English,Right,40,16,13,0.4,0.33,7.3,82.1,3.5,1.2,1,1,17,3,52.35
+Player_0035,29,RB,Bundesliga,French,Left,42,4,5,0.1,0.12,5.5,77.1,3.2,0.6,3,1,21,0,23.96
+Player_0036,21,RB,La Liga,Italian,Right,40,8,2,0.2,0.05,6.0,94.4,0.6,3.4,2,0,0,3,21.97
+Player_0037,24,CM,Serie A,Italian,Right,33,7,7,0.21,0.21,6.4,81.0,2.5,3.0,4,1,24,4,27.44
+Player_0038,21,RB,La Liga,Dutch,Right,41,6,0,0.15,0.0,6.8,83.4,3.8,2.0,4,0,0,0,22.54
+Player_0039,16,CAM,Ligue 1,French,Right,28,20,21,0.71,0.75,6.9,93.6,2.9,2.1,2,0,0,1,24.96
+Player_0040,21,CAM,Serie A,Belgian,Right,29,17,19,0.59,0.66,7.1,95.6,2.5,1.3,4,0,0,6,44.53
+Player_0041,27,ST,La Liga,English,Left,43,21,3,0.49,0.07,7.1,92.1,3.7,2.4,3,0,0,3,61.83
+Player_0042,16,CDM,Serie A,Belgian,Right,42,1,1,0.02,0.02,6.7,73.7,2.4,2.7,4,0,0,3,17.55
+Player_0043,20,LB,Serie A,German,Right,20,3,1,0.15,0.05,7.5,88.9,4.3,2.1,1,0,0,2,14.92
+Player_0044,23,RB,Serie A,Argentine,Right,22,4,1,0.18,0.05,7.3,85.6,3.5,2.9,2,0,0,4,20.06
+Player_0045,16,GK,Premier League,Spanish,Right,34,2,1,0.06,0.03,6.5,82.3,4.3,0.9,4,0,0,2,16.1
+Player_0046,21,CM,La Liga,Portuguese,Right,32,8,6,0.25,0.19,7.6,90.2,4.0,0.5,3,0,0,3,29.02
+Player_0047,24,LW,La Liga,Belgian,Right,22,20,13,0.91,0.59,7.8,83.2,0.8,1.6,4,1,21,4,49.84
+Player_0048,25,CB,La Liga,German,Right,38,7,2,0.18,0.05,6.9,73.4,3.7,2.9,4,0,0,1,24.54
+Player_0049,25,CM,Premier League,Dutch,Left,37,8,14,0.22,0.38,7.1,80.9,2.6,0.6,3,0,0,1,40.85
+Player_0050,19,CM,Serie A,Argentine,Right,25,3,12,0.12,0.48,6.7,78.7,2.3,0.5,2,0,0,2,22.53
+Player_0051,27,GK,Premier League,Argentine,Right,27,3,2,0.11,0.07,7.5,89.2,0.8,3.4,4,0,0,0,21.99
+Player_0052,24,CDM,La Liga,Portuguese,Right,39,4,7,0.1,0.18,7.6,78.3,0.7,1.1,3,0,0,3,32.16
+Player_0053,17,GK,Ligue 1,Brazilian,Left,38,4,1,0.11,0.03,7.6,72.4,2.2,1.2,2,1,18,0,16.19
+Player_0054,22,RB,Serie A,Spanish,Right,31,7,6,0.23,0.19,6.6,66.0,3.4,3.7,1,0,0,0,18.01
+Player_0055,20,RW,Ligue 1,Argentine,Right,26,17,13,0.65,0.5,6.9,94.0,2.1,1.3,2,0,0,1,33.69
+Player_0056,30,CDM,Ligue 1,German,Right,24,6,1,0.25,0.04,7.3,66.9,0.9,1.4,1,0,0,3,19.56
+Player_0057,26,ST,Bundesliga,Argentine,Right,29,18,0,0.62,0.0,7.0,83.0,4.0,2.1,4,0,0,1,50.45
+Player_0058,25,LW,La Liga,French,Left,27,14,22,0.52,0.81,6.7,77.8,0.6,3.8,3,1,20,5,59.57
+Player_0059,16,RW,Ligue 1,Spanish,Left,44,13,10,0.3,0.23,7.6,77.8,3.1,3.2,4,0,0,0,23.85
+Player_0060,22,GK,Bundesliga,German,Right,25,7,4,0.28,0.16,7.1,77.1,0.9,1.0,2,0,0,6,14.19
+Player_0061,24,LB,La Liga,Portuguese,Right,33,6,2,0.18,0.06,8.1,83.8,2.1,3.9,1,0,0,4,24.57
+Player_0062,22,CDM,Ligue 1,Brazilian,Right,32,5,2,0.16,0.06,7.3,83.0,1.9,3.7,3,0,0,4,19.31
+Player_0063,25,RB,Bundesliga,Italian,Right,24,4,4,0.17,0.17,7.5,79.0,2.9,2.9,3,1,14,2,26.33
+Player_0064,21,LB,Serie A,English,Left,21,8,3,0.38,0.14,6.7,83.4,1.8,2.8,4,0,0,3,18.61
+Player_0065,24,LB,Serie A,German,Right,38,5,6,0.13,0.16,6.6,87.7,4.0,2.6,4,1,21,2,22.53
+Player_0066,21,CAM,Ligue 1,Dutch,Right,30,17,20,0.57,0.67,6.7,87.7,4.2,0.9,2,0,0,5,32.49
+Player_0067,21,CB,Bundesliga,Italian,Right,41,2,5,0.05,0.12,7.6,64.3,1.1,1.8,1,0,0,3,17.51
+Player_0068,24,LW,La Liga,German,Right,38,15,13,0.39,0.34,6.2,83.9,1.7,0.9,1,1,14,0,46.09
+Player_0069,21,RB,Premier League,Spanish,Right,41,7,2,0.17,0.05,6.6,88.0,1.0,2.4,1,1,17,0,23.3
+Player_0070,20,RW,La Liga,English,Left,30,10,11,0.33,0.37,7.7,80.9,0.9,2.8,3,1,14,5,49.99
+Player_0071,26,CDM,Serie A,French,Right,27,7,2,0.26,0.07,7.3,82.1,2.1,2.1,1,0,0,2,31.08
+Player_0072,21,CM,Bundesliga,Portuguese,Right,36,4,5,0.11,0.14,7.6,76.7,1.5,1.4,1,0,0,1,30.7
+Player_0073,21,CAM,La Liga,Dutch,Left,30,20,16,0.67,0.53,7.6,86.1,1.5,0.9,2,1,26,2,58.62
+Player_0074,24,CDM,Premier League,French,Right,41,7,1,0.17,0.02,7.2,77.4,1.9,1.9,3,0,0,1,35.86
+Player_0075,24,CM,Ligue 1,Brazilian,Right,21,7,7,0.33,0.33,6.5,90.4,3.9,3.4,3,1,21,3,28.6
+Player_0076,24,CM,Bundesliga,Spanish,Right,44,9,11,0.2,0.25,6.1,70.4,2.8,2.5,3,0,0,1,32.54
+Player_0077,23,CM,Serie A,Italian,Left,25,1,8,0.04,0.32,7.8,77.0,0.9,1.3,1,0,0,2,29.53
+Player_0078,16,ST,Premier League,German,Left,39,23,6,0.59,0.15,6.2,73.8,3.9,1.3,1,0,0,5,42.27
+Player_0079,27,CDM,Ligue 1,Argentine,Right,31,4,1,0.13,0.03,7.9,88.2,4.4,1.8,4,0,0,2,24.52
+Player_0080,21,LW,Bundesliga,Brazilian,Right,34,13,11,0.38,0.32,7.0,85.6,3.4,1.2,3,0,0,5,33.2
+Player_0081,21,GK,Ligue 1,Dutch,Right,25,6,2,0.24,0.08,6.5,78.9,2.1,2.8,2,0,0,2,10.68
+Player_0082,32,CDM,Bundesliga,Argentine,Right,41,3,2,0.07,0.05,6.4,85.2,2.4,3.7,2,1,22,0,26.23
+Player_0083,20,LB,Premier League,Portuguese,Right,28,3,3,0.11,0.11,6.9,71.0,4.1,1.1,3,1,24,2,27.6
+Player_0084,29,RW,Serie A,Portuguese,Right,30,22,16,0.73,0.53,7.3,82.0,3.4,1.6,3,0,0,0,49.55
+Player_0085,21,RW,Premier League,English,Right,31,16,18,0.52,0.58,7.3,91.1,1.8,1.1,1,0,0,2,54.63
+Player_0086,23,LW,La Liga,Portuguese,Right,35,16,15,0.46,0.43,7.9,85.6,3.2,1.6,4,0,0,2,42.29
+Player_0087,23,LW,Serie A,German,Right,44,23,10,0.52,0.23,6.6,88.0,0.5,1.1,1,0,0,3,38.84
+Player_0088,25,CM,Bundesliga,Dutch,Right,38,3,8,0.08,0.21,7.5,85.5,4.0,0.9,1,0,0,3,31.57
+Player_0089,16,GK,Premier League,English,Right,36,4,6,0.11,0.17,6.8,84.4,1.0,0.8,4,1,23,0,24.45
+Player_0090,28,ST,Ligue 1,Dutch,Right,39,24,3,0.62,0.08,8.3,74.2,1.4,3.3,3,0,0,3,40.38
+Player_0091,33,LB,Premier League,Dutch,Right,27,2,1,0.07,0.04,7.1,71.5,1.3,2.3,3,1,31,1,19.36
+Player_0092,27,ST,La Liga,English,Right,28,20,2,0.71,0.07,6.5,80.6,3.2,0.7,1,0,0,3,62.59
+Player_0093,25,CM,Serie A,Spanish,Right,20,7,7,0.35,0.35,7.5,89.9,4.1,1.9,3,0,0,0,34.28
+Player_0094,32,GK,La Liga,Italian,Right,21,2,5,0.1,0.24,7.8,82.8,1.0,2.5,2,1,15,1,22.68
+Player_0095,31,RW,Bundesliga,Dutch,Right,21,15,15,0.71,0.71,6.6,69.2,2.9,3.0,4,0,0,3,35.56
+Player_0096,28,LB,Serie A,French,Left,34,4,1,0.12,0.03,6.9,77.0,1.2,3.9,1,1,23,3,25.6
+Player_0097,19,LW,La Liga,Argentine,Right,29,17,17,0.59,0.59,6.8,71.0,2.7,1.0,4,1,24,4,45.42
+Player_0098,19,LB,Bundesliga,French,Right,22,6,3,0.27,0.14,7.2,79.5,2.1,0.6,4,0,0,5,16.53
+Player_0099,25,RW,La Liga,Spanish,Left,36,24,15,0.67,0.42,8.1,75.7,3.5,1.9,4,1,13,4,61.12
+Player_0100,21,RW,Bundesliga,Portuguese,Right,32,17,15,0.53,0.47,7.1,81.9,4.0,2.1,4,0,0,3,39.89
+Player_0101,32,CB,Ligue 1,German,Right,22,9,0,0.41,0.0,7.3,83.3,3.3,0.9,1,1,20,0,23.27
+Player_0102,24,CB,Bundesliga,Argentine,Right,42,4,3,0.1,0.07,6.7,86.4,1.6,3.3,2,1,10,1,29.68
+Player_0103,18,RW,Premier League,Dutch,Right,29,17,8,0.59,0.28,7.2,76.6,1.7,2.5,2,0,0,3,45.79
+Player_0104,19,LB,La Liga,Spanish,Right,37,2,2,0.05,0.05,7.6,74.8,4.2,3.4,3,0,0,3,18.87
+Player_0105,23,LW,La Liga,Italian,Right,42,25,21,0.6,0.5,7.6,85.9,1.2,1.5,2,0,0,3,56.5
+Player_0106,22,RW,Serie A,Italian,Right,28,22,20,0.79,0.71,6.4,81.6,3.6,2.0,4,0,0,1,45.3
+Player_0107,26,CB,Premier League,Dutch,Left,27,3,2,0.11,0.07,7.5,82.3,1.6,3.4,2,1,24,1,32.65
+Player_0108,19,ST,Serie A,Belgian,Left,44,31,4,0.7,0.09,7.0,85.8,1.4,1.0,2,0,0,1,43.44
+Player_0109,22,GK,La Liga,Argentine,Right,32,6,7,0.19,0.22,6.2,87.9,4.5,1.3,2,1,24,3,24.17
+Player_0110,31,CDM,Serie A,English,Right,33,8,6,0.24,0.18,6.3,80.9,2.3,2.5,2,1,21,6,28.12
+Player_0111,30,CAM,Bundesliga,Brazilian,Left,44,13,13,0.3,0.3,6.3,83.1,1.3,3.3,4,1,17,0,54.04
+Player_0112,24,CAM,Ligue 1,Argentine,Right,39,17,12,0.44,0.31,7.9,84.5,0.7,3.3,2,0,0,4,38.46
+Player_0113,32,GK,Ligue 1,Italian,Right,33,5,6,0.15,0.18,6.9,73.5,1.3,3.7,1,0,0,2,12.22
+Player_0114,26,CDM,Premier League,Italian,Right,34,6,3,0.18,0.09,7.9,78.3,2.9,1.2,3,0,0,1,41.14
+Player_0115,16,CDM,Bundesliga,French,Right,40,8,2,0.2,0.05,7.1,91.6,1.3,1.2,2,0,0,1,18.32
+Player_0116,20,LW,Serie A,Dutch,Left,32,15,13,0.47,0.41,6.0,77.3,1.0,1.7,2,0,0,1,32.22
+Player_0117,22,CB,Ligue 1,Portuguese,Right,29,2,2,0.07,0.07,6.4,96.0,2.0,3.8,2,1,19,2,24.71
+Player_0118,36,ST,La Liga,German,Right,39,18,2,0.46,0.05,7.4,90.0,3.6,3.1,1,0,0,2,32.5
+Player_0119,23,CDM,Premier League,Dutch,Left,22,5,4,0.23,0.18,7.3,74.2,4.0,2.9,3,0,0,0,30.11
+Player_0120,19,CAM,Bundesliga,Spanish,Right,31,21,9,0.68,0.29,6.4,74.3,1.9,0.8,3,0,0,4,38.24
+Player_0121,21,LB,Serie A,Belgian,Right,24,7,2,0.29,0.08,7.2,71.5,1.3,2.2,4,0,0,3,16.67
+Player_0122,21,CDM,Bundesliga,Brazilian,Left,21,3,3,0.14,0.14,7.7,89.1,0.5,1.1,4,0,0,1,22.83
+Player_0123,23,CB,Bundesliga,Belgian,Left,32,4,4,0.12,0.12,7.2,84.2,2.2,1.4,2,1,11,1,29.23
+Player_0124,24,ST,Bundesliga,Dutch,Right,42,23,2,0.55,0.05,7.0,80.3,4.3,3.4,2,1,15,4,61.54
+Player_0125,27,CDM,Premier League,English,Left,30,7,6,0.23,0.2,6.5,84.8,2.1,2.1,1,0,0,3,31.31
+Player_0126,18,CB,La Liga,English,Right,31,9,1,0.29,0.03,7.1,70.4,3.6,2.7,3,1,21,3,23.31
+Player_0127,22,GK,Bundesliga,Belgian,Right,39,6,3,0.15,0.08,7.6,84.6,1.9,1.9,3,0,0,4,17.84
+Player_0128,16,CM,Serie A,English,Right,41,3,7,0.07,0.17,7.6,96.0,1.8,2.4,3,0,0,4,16.63
+Player_0129,19,LB,La Liga,Argentine,Right,31,11,6,0.35,0.19,7.0,94.3,0.6,1.5,3,1,18,3,20.64
+Player_0130,19,GK,Serie A,English,Right,33,8,1,0.24,0.03,6.6,80.7,1.9,3.8,2,0,0,1,15.01
+Player_0131,17,CAM,Ligue 1,Belgian,Right,39,20,11,0.51,0.28,8.1,74.3,1.5,2.6,1,1,14,2,36.74
+Player_0132,22,CB,La Liga,German,Left,38,5,7,0.13,0.18,7.3,89.2,2.6,3.4,4,0,0,4,23.2
+Player_0133,26,CDM,Ligue 1,Dutch,Right,41,4,1,0.1,0.02,7.4,82.5,3.4,2.0,2,0,0,5,19.0
+Player_0134,18,CB,Ligue 1,German,Right,34,1,6,0.03,0.18,6.4,73.9,1.4,0.6,3,1,16,2,21.22
+Player_0135,23,CDM,Bundesliga,Spanish,Right,42,4,3,0.1,0.07,7.4,79.9,3.9,2.1,4,0,0,3,24.57
+Player_0136,16,CB,La Liga,Spanish,Left,41,3,2,0.07,0.05,7.2,74.8,2.8,2.1,4,0,0,1,15.76
+Player_0137,27,LB,Bundesliga,Dutch,Right,27,7,4,0.26,0.15,7.3,88.5,4.0,2.8,1,0,0,0,25.84
+Player_0138,25,RW,Premier League,German,Right,39,24,16,0.62,0.41,6.5,68.4,2.0,0.7,4,0,0,2,55.5
+Player_0139,23,RB,La Liga,Portuguese,Right,27,4,1,0.15,0.04,6.5,86.2,1.1,1.7,1,1,12,2,25.84
+Player_0140,21,LB,Bundesliga,German,Right,42,5,3,0.12,0.07,7.0,83.3,2.7,3.4,3,1,17,5,28.49
+Player_0141,32,RW,La Liga,Argentine,Right,35,19,14,0.54,0.4,6.8,89.7,2.1,3.9,2,1,21,5,52.3
+Player_0142,24,RB,Serie A,English,Right,24,7,5,0.29,0.21,7.3,75.2,2.0,1.3,1,1,18,4,24.42
+Player_0143,26,RB,La Liga,German,Right,33,2,7,0.06,0.21,7.1,73.5,3.2,2.1,2,0,0,2,22.61
+Player_0144,26,GK,Serie A,French,Right,26,9,4,0.35,0.15,7.2,78.9,3.5,2.0,4,0,0,4,17.21
+Player_0145,24,ST,Ligue 1,Dutch,Right,30,30,7,1.0,0.23,7.2,88.9,3.0,4.0,4,0,0,0,43.96
+Player_0146,28,ST,La Liga,Belgian,Right,28,19,4,0.68,0.14,7.5,75.1,2.4,2.8,3,1,30,1,67.55
+Player_0147,23,RB,Ligue 1,Italian,Right,21,7,1,0.33,0.05,7.9,74.8,3.2,3.8,2,0,0,3,18.23
+Player_0148,23,GK,La Liga,English,Right,42,11,0,0.26,0.0,7.5,77.0,4.4,1.3,2,0,0,1,21.17
+Player_0149,20,CM,Bundesliga,English,Right,34,6,19,0.18,0.56,7.0,89.6,3.8,2.2,2,1,17,2,30.87
+Player_0150,22,CDM,Ligue 1,Spanish,Right,40,4,4,0.1,0.1,6.7,83.6,2.4,1.9,3,0,0,0,20.64
+Player_0151,21,GK,Ligue 1,German,Right,43,5,2,0.12,0.05,6.5,75.7,1.7,2.4,1,0,0,5,12.61
+Player_0152,21,CAM,Bundesliga,German,Left,22,15,14,0.68,0.64,6.8,77.8,3.8,2.4,2,0,0,3,38.71
+Player_0153,23,CB,La Liga,Belgian,Right,36,4,1,0.11,0.03,7.7,89.3,4.3,1.9,4,0,0,2,23.71
+Player_0154,26,LB,Premier League,Brazilian,Left,43,3,5,0.07,0.12,7.9,78.7,1.1,1.7,2,0,0,3,26.84
+Player_0155,25,LB,Premier League,Dutch,Left,35,3,2,0.09,0.06,6.8,75.2,2.8,0.5,2,0,0,1,26.97
+Player_0156,29,LB,Serie A,Portuguese,Right,35,7,3,0.2,0.09,7.7,73.2,2.6,1.1,4,0,0,2,22.14
+Player_0157,20,LW,Premier League,Argentine,Left,32,17,5,0.53,0.16,6.2,85.7,4.1,1.5,3,0,0,1,41.63
+Player_0158,22,GK,Serie A,Dutch,Right,29,6,1,0.21,0.03,7.1,61.3,2.4,2.7,4,0,0,4,14.35
+Player_0159,17,LB,Ligue 1,Argentine,Right,34,3,3,0.09,0.09,6.7,78.4,4.4,1.0,4,0,0,3,13.06
+Player_0160,22,CAM,Serie A,Italian,Right,41,14,11,0.34,0.27,7.2,75.1,4.5,1.1,4,0,0,0,38.7
+Player_0161,23,GK,La Liga,German,Left,33,3,2,0.09,0.06,6.8,83.4,1.9,3.7,2,1,24,2,20.13
+Player_0162,20,CB,Ligue 1,Spanish,Right,27,6,2,0.22,0.07,6.9,74.6,1.9,1.0,2,0,0,2,17.77
+Player_0163,26,LW,Bundesliga,Argentine,Left,44,19,17,0.43,0.39,6.8,80.0,0.9,1.1,3,0,0,2,47.24
+Player_0164,21,CM,Serie A,Argentine,Right,22,7,6,0.32,0.27,6.5,84.4,0.6,1.5,4,0,0,5,25.3
+Player_0165,28,RB,Serie A,Dutch,Right,29,7,1,0.24,0.03,8.6,93.8,1.1,3.9,3,0,0,2,19.26
+Player_0166,28,LB,Ligue 1,German,Right,37,14,3,0.38,0.08,7.3,82.5,1.2,0.7,2,0,0,1,17.29
+Player_0167,16,RB,Premier League,Spanish,Left,37,6,3,0.16,0.08,6.2,80.6,3.0,2.9,2,0,0,1,15.69
+Player_0168,24,CM,Ligue 1,Brazilian,Right,23,5,10,0.22,0.43,7.3,96.0,2.4,2.7,2,0,0,2,27.87
+Player_0169,30,ST,La Liga,Spanish,Right,29,25,2,0.86,0.07,6.1,84.5,1.9,2.6,1,1,22,2,47.42
+Player_0170,18,CAM,Serie A,French,Right,23,24,12,1.04,0.52,7.7,78.1,1.5,3.5,2,1,26,1,39.17
+Player_0171,29,GK,La Liga,Brazilian,Right,34,3,2,0.09,0.06,7.3,76.9,0.8,2.5,3,1,17,3,26.32
+Player_0172,24,LB,La Liga,Italian,Right,31,3,3,0.1,0.1,7.5,89.8,2.0,2.4,4,0,0,3,19.89
+Player_0173,22,RB,Bundesliga,Portuguese,Right,24,4,4,0.17,0.17,7.9,89.8,2.2,2.7,1,1,19,1,28.88
+Player_0174,21,CB,Ligue 1,Dutch,Right,38,4,4,0.11,0.11,6.5,82.3,2.6,4.0,2,1,20,2,20.26
+Player_0175,19,LB,Ligue 1,Portuguese,Right,32,7,2,0.22,0.06,6.9,86.3,3.7,3.1,4,1,21,3,19.28
+Player_0176,31,CB,Ligue 1,French,Left,30,3,3,0.1,0.1,7.4,82.9,0.6,3.0,3,0,0,0,15.44
+Player_0177,27,LW,Premier League,Italian,Right,38,19,11,0.5,0.29,7.1,77.6,1.7,2.4,1,0,0,1,56.15
+Player_0178,21,LB,La Liga,Dutch,Right,23,3,4,0.13,0.17,6.5,73.5,4.2,4.0,1,0,0,3,18.56
+Player_0179,16,GK,Ligue 1,Spanish,Right,38,6,1,0.16,0.03,6.4,90.4,2.8,1.2,1,0,0,3,8.62
+Player_0180,27,LW,Ligue 1,Dutch,Left,35,14,9,0.4,0.26,7.3,85.1,2.0,1.7,3,0,0,3,34.75
+Player_0181,22,CAM,Serie A,Dutch,Left,38,17,15,0.45,0.39,8.5,89.2,3.2,1.4,2,1,16,5,44.75
+Player_0182,27,ST,Bundesliga,Spanish,Right,24,17,4,0.71,0.17,8.5,83.9,4.2,1.0,3,0,0,5,45.77
+Player_0183,28,CAM,Bundesliga,Argentine,Right,43,16,20,0.37,0.47,7.9,85.0,2.0,1.8,4,0,0,1,49.63
+Player_0184,24,LB,Ligue 1,English,Left,41,3,4,0.07,0.1,7.3,78.6,0.7,3.8,2,0,0,1,18.69
+Player_0185,23,RW,Ligue 1,English,Right,28,9,11,0.32,0.39,7.4,84.3,2.2,0.9,3,0,0,2,30.03
+Player_0186,24,GK,Serie A,Portuguese,Left,36,4,2,0.11,0.06,8.1,77.8,2.6,0.6,2,0,0,2,16.13
+Player_0187,24,CB,La Liga,German,Left,43,4,3,0.09,0.07,7.0,83.6,1.7,2.0,3,1,15,1,34.1
+Player_0188,18,CM,Premier League,German,Left,37,10,8,0.27,0.22,7.3,78.7,2.3,2.2,1,1,13,1,31.26
+Player_0189,24,ST,Premier League,Belgian,Left,31,25,3,0.81,0.1,8.5,91.2,1.4,1.2,2,0,0,2,62.29
+Player_0190,22,LW,Ligue 1,Spanish,Left,20,23,14,1.15,0.7,8.4,83.1,1.1,3.8,4,0,0,2,40.87
+Player_0191,31,GK,Premier League,Dutch,Right,37,9,5,0.24,0.14,7.4,74.2,0.7,2.6,2,1,12,2,23.67
+Player_0192,28,RB,Premier League,English,Right,36,2,2,0.06,0.06,7.1,75.3,1.2,3.7,2,1,21,3,28.0
+Player_0193,34,LW,La Liga,English,Right,24,19,10,0.79,0.42,7.0,81.6,2.5,1.7,3,0,0,2,38.41
+Player_0194,26,RB,Bundesliga,Belgian,Left,35,10,4,0.29,0.11,8.3,80.2,3.5,2.2,2,0,0,1,29.32
+Player_0195,24,ST,Serie A,German,Right,29,23,3,0.79,0.1,7.3,84.9,3.9,3.8,1,0,0,1,51.75
+Player_0196,21,CM,La Liga,Brazilian,Left,35,4,8,0.11,0.23,6.2,84.7,2.6,2.7,1,1,13,1,29.7
+Player_0197,25,GK,Bundesliga,English,Left,22,5,2,0.23,0.09,7.1,85.8,3.3,3.6,2,0,0,1,16.18
+Player_0198,20,CB,Ligue 1,Belgian,Right,31,7,2,0.23,0.06,7.7,82.2,0.6,2.2,2,1,19,4,22.95
+Player_0199,23,CM,La Liga,German,Right,44,4,10,0.09,0.23,6.7,93.0,0.7,2.5,4,0,0,1,28.46
+Player_0200,24,LB,Ligue 1,Belgian,Left,27,5,4,0.19,0.15,6.8,76.3,2.6,3.5,2,0,0,4,15.49
+Player_0201,23,CB,Premier League,Brazilian,Right,22,3,1,0.14,0.05,6.5,84.5,3.5,2.4,2,0,0,0,28.8
+Player_0202,24,CDM,Serie A,German,Left,22,8,3,0.36,0.14,6.5,78.0,1.5,2.0,1,0,0,4,22.13
+Player_0203,23,RW,La Liga,Argentine,Right,43,11,18,0.26,0.42,6.7,90.6,3.6,3.8,3,1,26,4,51.9
+Player_0204,19,CM,Bundesliga,Belgian,Left,24,4,9,0.17,0.38,7.6,80.7,2.9,2.2,2,0,0,2,23.15
+Player_0205,20,LW,Ligue 1,Dutch,Right,36,20,13,0.56,0.36,6.1,80.3,3.3,2.8,2,0,0,2,28.73
+Player_0206,24,CAM,Premier League,Portuguese,Right,31,22,12,0.71,0.39,8.0,80.9,2.7,2.0,1,1,23,0,64.36
+Player_0207,20,LW,Serie A,Portuguese,Left,33,18,14,0.55,0.42,6.0,80.6,3.8,0.5,2,0,0,3,32.08
+Player_0208,21,CDM,La Liga,Brazilian,Left,40,3,2,0.07,0.05,7.4,81.1,2.1,3.6,3,1,22,4,30.57
+Player_0209,17,RB,Serie A,English,Left,40,4,2,0.1,0.05,6.8,77.9,1.7,3.9,3,1,13,1,20.99
+Player_0210,22,ST,Ligue 1,German,Right,34,14,2,0.41,0.06,8.2,84.4,2.1,1.1,3,0,0,3,39.75
+Player_0211,31,GK,Serie A,Portuguese,Left,41,6,4,0.15,0.1,7.3,83.2,2.3,3.9,3,1,22,1,23.1
+Player_0212,32,CAM,Serie A,Argentine,Right,25,18,15,0.72,0.6,7.3,71.0,2.6,2.9,1,1,15,3,44.78
+Player_0213,18,RB,Premier League,Brazilian,Right,38,5,4,0.13,0.11,6.4,84.3,1.6,1.9,4,0,0,1,22.19
+Player_0214,23,CM,Bundesliga,Italian,Right,43,3,8,0.07,0.19,6.4,88.5,2.1,3.9,3,0,0,2,30.25
+Player_0215,24,CB,Bundesliga,Dutch,Right,39,6,1,0.15,0.03,6.0,93.9,3.3,4.0,2,1,20,2,26.74
+Player_0216,22,GK,Ligue 1,Portuguese,Left,29,0,3,0.0,0.1,7.2,96.0,3.1,0.7,4,1,17,1,17.65
+Player_0217,27,CB,Ligue 1,Brazilian,Right,37,4,4,0.11,0.11,6.1,80.0,2.8,2.2,2,1,23,1,25.62
+Player_0218,23,RW,Ligue 1,French,Left,26,21,10,0.81,0.38,6.8,77.7,4.2,3.5,2,0,0,4,33.31
+Player_0219,27,LW,Bundesliga,Argentine,Left,26,20,7,0.77,0.27,7.3,89.6,3.3,2.1,1,0,0,1,44.15
+Player_0220,22,CDM,La Liga,Italian,Left,27,4,5,0.15,0.19,7.8,73.5,3.2,3.4,4,1,19,3,30.37
+Player_0221,18,RB,Premier League,Brazilian,Right,29,4,4,0.14,0.14,7.1,81.1,1.0,2.3,1,0,0,2,18.57
+Player_0222,26,GK,Premier League,Spanish,Right,23,2,5,0.09,0.22,7.6,74.3,0.9,3.3,2,0,0,3,24.37
+Player_0223,22,CAM,La Liga,Dutch,Right,28,21,21,0.75,0.75,7.5,81.8,0.6,3.7,3,0,0,2,48.81
+Player_0224,21,ST,Bundesliga,Spanish,Right,22,17,4,0.77,0.18,6.0,80.0,3.1,3.7,1,0,0,0,46.77
+Player_0225,21,ST,Serie A,Portuguese,Right,20,14,1,0.7,0.05,6.4,78.6,3.1,2.4,1,1,12,1,45.95
+Player_0226,28,CB,La Liga,Argentine,Right,31,11,4,0.35,0.13,6.1,81.6,1.6,3.7,4,1,27,3,35.13
+Player_0227,20,LW,La Liga,French,Right,44,13,8,0.3,0.18,6.9,86.3,4.5,1.7,2,1,17,1,43.77
+Player_0228,29,CM,La Liga,Italian,Left,41,5,13,0.12,0.32,7.4,83.0,1.0,2.5,2,1,18,4,32.77
+Player_0229,27,RW,Bundesliga,Dutch,Left,39,22,8,0.56,0.21,6.9,74.8,3.0,3.6,2,0,0,1,41.43
+Player_0230,22,RW,Bundesliga,Brazilian,Right,37,21,13,0.57,0.35,7.0,81.3,1.9,2.0,1,1,24,2,44.78
+Player_0231,21,ST,Bundesliga,Portuguese,Left,36,16,4,0.44,0.11,5.5,80.9,1.5,3.7,2,0,0,3,44.11
+Player_0232,18,CB,Bundesliga,French,Right,34,2,3,0.06,0.09,7.7,81.3,4.4,2.8,2,0,0,2,18.27
+Player_0233,23,GK,Serie A,French,Right,28,1,1,0.04,0.04,5.9,76.4,3.3,1.5,2,1,17,5,19.26
+Player_0234,22,CM,La Liga,Argentine,Left,44,4,9,0.09,0.2,7.0,74.0,4.2,3.4,4,0,0,2,28.8
+Player_0235,16,RW,Premier League,Argentine,Right,44,29,12,0.66,0.27,7.7,82.9,1.9,3.8,2,0,0,0,46.54
+Player_0236,21,GK,La Liga,Belgian,Left,24,6,2,0.25,0.08,6.1,86.0,2.7,2.4,1,0,0,5,15.43
+Player_0237,25,RB,Serie A,Italian,Right,26,4,4,0.15,0.15,6.6,73.7,3.3,3.2,4,0,0,0,20.9
+Player_0238,22,LB,Premier League,English,Right,28,7,1,0.25,0.04,6.9,67.4,0.9,3.2,1,0,0,5,23.3
+Player_0239,22,CM,La Liga,Dutch,Right,44,4,10,0.09,0.23,6.9,74.5,3.8,2.9,2,1,20,2,38.18
+Player_0240,33,CDM,Premier League,English,Left,33,3,3,0.09,0.09,7.6,74.6,3.4,2.3,4,0,0,0,23.82
+Player_0241,22,LW,Bundesliga,French,Right,21,16,12,0.76,0.57,6.5,78.1,2.5,2.2,4,1,17,3,49.68
+Player_0242,25,RB,Serie A,German,Right,27,7,2,0.26,0.07,7.1,81.7,2.0,1.1,1,0,0,2,18.07
+Player_0243,24,CAM,La Liga,Spanish,Right,33,19,12,0.58,0.36,8.1,86.4,1.3,0.8,2,1,12,5,58.41
+Player_0244,22,CDM,Bundesliga,Italian,Right,24,10,3,0.42,0.12,7.4,88.5,1.2,3.8,4,0,0,1,24.76
+Player_0245,16,RW,Bundesliga,Italian,Right,42,31,10,0.74,0.24,7.0,82.0,2.2,1.1,3,0,0,1,28.86
+Player_0246,31,LB,Bundesliga,Argentine,Right,41,2,4,0.05,0.1,7.0,90.6,2.3,3.4,2,0,0,4,18.76
+Player_0247,29,CB,Serie A,Argentine,Right,27,3,1,0.11,0.04,7.1,75.6,0.6,3.0,1,1,15,5,22.72
+Player_0248,29,RW,Bundesliga,Dutch,Right,41,19,17,0.46,0.41,6.4,75.3,3.2,3.0,4,1,19,0,41.1
+Player_0249,20,ST,Premier League,Dutch,Right,26,11,3,0.42,0.12,5.6,91.4,3.8,2.0,4,1,14,1,44.1
+Player_0250,29,LB,Serie A,Brazilian,Right,42,1,5,0.02,0.12,7.0,76.9,3.0,2.3,1,0,0,2,20.85
+Player_0251,31,RB,Bundesliga,Spanish,Left,32,3,5,0.09,0.16,7.1,67.5,2.3,3.5,3,1,19,4,26.63
+Player_0252,23,ST,Bundesliga,Brazilian,Left,31,21,3,0.68,0.1,6.8,80.5,2.4,0.7,3,0,0,4,45.46
+Player_0253,26,RB,Premier League,English,Right,39,8,2,0.21,0.05,6.1,96.0,0.7,3.0,3,1,20,2,33.33
+Player_0254,23,ST,Bundesliga,Brazilian,Right,36,18,1,0.5,0.03,7.4,90.3,2.7,3.1,2,0,0,4,47.16
+Player_0255,29,CM,La Liga,French,Left,36,2,12,0.06,0.33,7.0,85.8,2.9,3.9,4,0,0,2,28.32
+Player_0256,24,LW,Serie A,Brazilian,Right,32,20,15,0.62,0.47,6.5,86.7,4.5,0.6,1,1,14,2,47.14
+Player_0257,23,RB,Ligue 1,Italian,Right,30,5,5,0.17,0.17,7.7,85.1,0.5,1.5,1,1,18,1,25.57
+Player_0258,16,CB,Ligue 1,Italian,Right,36,4,3,0.11,0.08,7.1,78.9,2.3,1.7,4,1,16,4,17.6
+Player_0259,28,RB,Bundesliga,Argentine,Right,29,3,6,0.1,0.21,6.8,76.1,2.0,2.3,2,1,18,3,23.62
+Player_0260,26,CDM,Premier League,Spanish,Right,28,7,5,0.25,0.18,8.0,75.8,2.1,3.6,3,0,0,2,40.12
+Player_0261,20,CAM,La Liga,Dutch,Left,29,15,10,0.52,0.34,6.7,77.4,1.0,1.7,1,1,19,4,44.49
+Player_0262,25,LB,Ligue 1,Belgian,Left,24,4,2,0.17,0.08,5.6,87.0,3.7,1.3,2,0,0,1,18.13
+Player_0263,28,CM,Premier League,Brazilian,Right,27,5,10,0.19,0.37,6.7,71.5,1.7,3.2,1,1,14,3,44.66
+Player_0264,22,CDM,Ligue 1,Portuguese,Right,29,3,0,0.1,0.0,6.4,78.8,1.1,3.2,4,0,0,2,18.76
+Player_0265,21,ST,La Liga,German,Right,42,18,1,0.43,0.02,7.1,79.9,1.6,3.3,4,0,0,4,53.45
+Player_0266,22,RB,La Liga,Spanish,Right,37,3,3,0.08,0.08,6.4,83.8,4.0,3.8,1,0,0,2,22.91
+Player_0267,17,CDM,Serie A,Brazilian,Right,30,4,1,0.13,0.03,6.5,89.5,0.7,0.5,4,1,17,3,23.31
+Player_0268,21,LW,La Liga,Brazilian,Right,30,23,12,0.77,0.4,7.5,87.7,3.2,1.9,2,0,0,1,40.83
+Player_0269,22,CDM,Ligue 1,Dutch,Right,29,5,2,0.17,0.07,6.4,82.7,0.6,1.6,3,0,0,1,17.8
+Player_0270,24,LB,La Liga,Belgian,Right,32,5,2,0.16,0.06,6.5,82.0,2.4,3.0,1,1,16,1,21.71
+Player_0271,32,CM,La Liga,German,Right,44,6,13,0.14,0.3,6.9,88.0,2.0,3.7,3,0,0,4,25.87
+Player_0272,21,LW,Serie A,Argentine,Right,35,25,11,0.71,0.31,7.2,80.1,2.1,2.8,4,0,0,0,41.4
+Player_0273,21,LB,Serie A,English,Right,43,6,1,0.14,0.02,7.0,89.0,3.1,1.9,2,1,22,1,20.83
+Player_0274,23,ST,Bundesliga,Argentine,Right,29,20,3,0.69,0.1,6.6,83.0,2.0,1.7,4,0,0,1,48.81
+Player_0275,25,RB,Premier League,German,Right,33,4,3,0.12,0.09,7.2,85.5,1.9,1.8,4,0,0,3,23.07
+Player_0276,26,GK,La Liga,Italian,Right,32,3,0,0.09,0.0,6.9,77.5,3.4,2.7,4,1,21,3,18.58
+Player_0277,28,LW,Premier League,English,Right,30,13,9,0.43,0.3,6.9,90.8,1.7,2.1,4,1,26,3,53.46
+Player_0278,23,ST,La Liga,English,Right,21,21,3,1.0,0.14,7.1,81.4,2.5,1.1,3,0,0,2,55.98
+Player_0279,21,LB,Serie A,Brazilian,Left,28,3,1,0.11,0.04,5.5,74.3,3.9,2.8,4,0,0,1,18.25
+Player_0280,19,LB,La Liga,Spanish,Right,24,7,2,0.29,0.08,7.1,79.1,3.6,0.7,4,1,22,2,22.01
+Player_0281,26,CDM,La Liga,Brazilian,Left,39,4,2,0.1,0.05,7.7,93.2,2.1,2.7,3,1,15,2,40.32
+Player_0282,26,CB,Serie A,Spanish,Right,23,6,4,0.26,0.17,7.8,78.9,1.1,1.4,1,0,0,2,22.38
+Player_0283,19,LB,Bundesliga,German,Right,26,6,2,0.23,0.08,7.1,82.5,1.1,2.6,3,0,0,2,18.1
+Player_0284,17,GK,Ligue 1,Portuguese,Right,26,5,2,0.19,0.08,7.0,77.8,1.2,3.1,3,0,0,1,11.4
+Player_0285,35,RB,Bundesliga,Belgian,Right,25,6,6,0.24,0.24,6.1,68.1,4.1,0.9,1,1,21,0,16.52
+Player_0286,16,CAM,Premier League,Belgian,Left,25,16,16,0.64,0.64,7.0,89.2,3.4,0.8,1,0,0,3,40.38
+Player_0287,16,ST,Bundesliga,Argentine,Right,39,23,3,0.59,0.08,6.9,82.2,1.7,1.8,2,0,0,2,39.87
+Player_0288,26,CAM,Premier League,German,Right,34,17,10,0.5,0.29,7.4,76.1,0.8,4.0,3,1,19,1,78.04
+Player_0289,22,LW,Serie A,English,Right,40,17,7,0.42,0.17,7.6,83.6,1.2,3.0,3,0,0,2,34.44
+Player_0290,21,RW,La Liga,Argentine,Right,35,18,12,0.51,0.34,7.2,86.7,2.0,1.4,4,1,17,1,52.8
+Player_0291,31,CAM,Ligue 1,German,Right,35,17,12,0.49,0.34,7.4,88.5,1.1,2.1,2,0,0,3,34.36
+Player_0292,18,RB,Premier League,Spanish,Right,29,6,2,0.21,0.07,6.4,96.0,0.9,1.6,4,0,0,2,20.91
+Player_0293,23,RW,La Liga,Italian,Right,23,14,7,0.61,0.3,7.1,76.3,2.6,2.0,1,1,20,2,48.99
+Player_0294,25,LB,Serie A,French,Right,35,6,7,0.17,0.2,7.0,79.8,4.0,2.1,1,0,0,1,19.55
+Player_0295,26,ST,La Liga,Dutch,Left,42,22,1,0.52,0.02,6.9,77.5,3.2,1.4,2,1,14,4,67.46
+Player_0296,26,RW,Ligue 1,Brazilian,Right,29,19,10,0.66,0.34,6.6,89.6,2.8,2.4,2,0,0,3,34.64
+Player_0297,21,CB,Bundesliga,German,Right,36,2,6,0.06,0.17,5.5,82.2,3.9,2.4,4,1,27,0,24.22
+Player_0298,35,CDM,Bundesliga,Spanish,Left,20,6,3,0.3,0.15,7.2,73.6,3.2,3.0,1,0,0,3,18.19
+Player_0299,26,ST,Premier League,Italian,Left,37,26,3,0.7,0.08,7.0,78.7,4.2,3.9,1,1,19,3,76.99
+Player_0300,24,ST,Premier League,Italian,Left,23,23,2,1.0,0.09,7.0,78.0,1.8,2.7,2,0,0,1,54.29
+Player_0301,19,GK,La Liga,Dutch,Right,28,6,5,0.21,0.18,6.6,81.4,3.4,3.4,3,0,0,3,16.93
+Player_0302,24,RB,Serie A,German,Right,26,4,4,0.15,0.15,6.5,78.3,4.2,2.9,4,1,23,2,25.26
+Player_0303,26,ST,Ligue 1,Belgian,Right,34,19,0,0.56,0.0,7.8,72.9,2.3,0.8,2,0,0,2,39.65
+Player_0304,21,CM,La Liga,French,Right,42,3,16,0.07,0.38,7.4,81.1,1.9,3.6,3,0,0,2,32.22
+Player_0305,26,RB,Serie A,Argentine,Right,25,5,3,0.2,0.12,6.6,83.0,4.2,3.5,1,0,0,4,20.69
+Player_0306,20,GK,Ligue 1,French,Left,44,6,5,0.14,0.11,6.2,88.3,2.8,2.4,3,0,0,2,11.61
+Player_0307,20,GK,Bundesliga,Portuguese,Left,38,7,3,0.18,0.08,7.3,92.5,0.8,2.7,4,0,0,2,15.37
+Player_0308,28,RW,Bundesliga,French,Left,37,16,6,0.43,0.16,8.2,84.5,2.3,0.7,3,0,0,3,46.44
+Player_0309,27,CAM,Ligue 1,Portuguese,Right,32,16,12,0.5,0.38,7.4,71.7,4.4,1.2,4,1,14,1,41.76
+Player_0310,28,LB,Premier League,Portuguese,Right,25,3,2,0.12,0.08,7.0,77.4,4.3,2.2,1,0,0,3,27.83
+Player_0311,25,CB,Bundesliga,Argentine,Right,38,5,1,0.13,0.03,7.5,87.5,1.0,0.9,1,1,22,3,29.8
+Player_0312,19,CM,Premier League,French,Right,32,8,8,0.25,0.25,5.9,89.7,4.1,3.9,4,1,19,1,42.33
+Player_0313,24,LW,Bundesliga,Portuguese,Right,26,18,16,0.69,0.62,6.6,88.4,4.4,2.7,4,1,12,1,52.6
+Player_0314,23,GK,Premier League,Italian,Right,31,6,7,0.19,0.23,7.7,96.0,3.4,2.9,2,1,14,1,28.85
+Player_0315,27,LW,Serie A,Dutch,Left,42,17,9,0.4,0.21,6.4,84.8,2.1,1.3,4,0,0,3,44.35
+Player_0316,25,CAM,Bundesliga,French,Right,37,16,16,0.43,0.43,7.5,77.8,3.3,2.1,3,0,0,2,52.05
+Player_0317,25,CB,Premier League,Spanish,Right,34,6,2,0.18,0.06,6.6,86.7,1.3,1.3,3,0,0,1,32.5
+Player_0318,21,LB,Premier League,Argentine,Right,23,5,1,0.22,0.04,6.9,88.7,4.0,3.5,3,0,0,1,23.88
+Player_0319,23,RB,Ligue 1,Portuguese,Right,37,5,5,0.14,0.14,7.5,88.5,2.9,3.3,2,1,22,2,26.41
+Player_0320,21,GK,Ligue 1,French,Right,23,3,4,0.13,0.17,7.9,88.5,1.7,3.7,3,1,12,3,15.24
+Player_0321,26,LW,Bundesliga,Portuguese,Right,28,16,7,0.57,0.25,6.5,77.6,1.3,3.4,1,0,0,1,43.39
+Player_0322,31,GK,Premier League,Dutch,Right,44,3,0,0.07,0.0,6.1,82.8,1.8,1.2,1,0,0,2,16.73
+Player_0323,29,RB,Bundesliga,Brazilian,Right,34,10,6,0.29,0.18,6.7,84.0,1.8,0.9,1,1,21,0,24.78
+Player_0324,16,CB,La Liga,Portuguese,Right,22,0,4,0.0,0.18,7.3,72.4,1.5,4.0,3,0,0,3,15.59
+Player_0325,19,RW,Bundesliga,Spanish,Left,26,19,10,0.73,0.38,7.9,79.6,1.8,3.9,1,0,0,3,33.91
+Player_0326,23,CDM,La Liga,Belgian,Right,21,4,4,0.19,0.19,8.2,61.8,2.2,2.3,2,1,7,1,32.17
+Player_0327,26,CDM,Serie A,Portuguese,Right,38,5,1,0.13,0.03,6.8,81.8,2.4,3.2,1,1,17,4,32.63
+Player_0328,26,ST,Serie A,English,Right,28,27,6,0.96,0.21,6.6,82.3,3.0,3.0,1,0,0,2,61.44
+Player_0329,23,CB,Bundesliga,Italian,Right,38,5,3,0.13,0.08,6.3,76.3,2.9,0.8,3,0,0,1,23.39
+Player_0330,24,LW,Bundesliga,French,Right,42,15,11,0.36,0.26,7.7,96.0,0.5,2.3,3,0,0,2,49.15
+Player_0331,22,CDM,Serie A,Brazilian,Right,35,6,3,0.17,0.09,7.4,72.9,1.8,3.0,1,1,21,1,25.84
+Player_0332,22,GK,La Liga,French,Right,28,5,3,0.18,0.11,7.1,84.7,3.7,4.0,2,0,0,4,17.28
+Player_0333,22,ST,Serie A,Brazilian,Right,40,16,2,0.4,0.05,6.0,83.0,4.2,3.0,3,0,0,0,35.01
+Player_0334,23,CDM,Serie A,Dutch,Left,22,6,2,0.27,0.09,5.9,77.1,1.9,3.9,2,0,0,3,24.76
+Player_0335,22,LB,Ligue 1,Brazilian,Right,27,4,3,0.15,0.11,6.3,71.9,2.8,1.0,1,0,0,3,13.86
+Player_0336,17,ST,Serie A,Italian,Right,31,23,4,0.74,0.13,6.9,84.6,2.9,3.2,1,0,0,2,31.78
+Player_0337,35,RB,Serie A,French,Right,30,6,2,0.2,0.07,6.4,68.4,4.0,3.2,1,1,16,3,19.96
+Player_0338,16,CB,Serie A,Brazilian,Left,20,2,2,0.1,0.1,6.4,94.7,2.5,1.0,3,0,0,4,12.95
+Player_0339,28,CDM,Bundesliga,Italian,Right,20,2,4,0.1,0.2,7.0,92.8,3.8,2.0,2,0,0,3,22.89
+Player_0340,30,RB,Ligue 1,Belgian,Right,38,7,5,0.18,0.13,6.7,81.4,1.2,2.8,4,0,0,1,14.37
+Player_0341,34,LW,La Liga,Brazilian,Left,38,13,11,0.34,0.29,7.0,74.2,1.9,2.7,4,0,0,2,37.21
+Player_0342,16,CB,Bundesliga,Spanish,Right,31,10,3,0.32,0.1,7.2,89.7,1.5,2.1,1,1,16,1,25.02
+Player_0343,30,RB,Ligue 1,Italian,Right,22,3,2,0.14,0.09,7.9,77.0,1.3,2.2,1,1,19,1,19.33
+Player_0344,19,CB,Ligue 1,Brazilian,Right,24,4,4,0.17,0.17,7.4,76.9,2.2,2.1,4,0,0,2,13.84
+Player_0345,24,CDM,Ligue 1,German,Right,38,3,2,0.08,0.05,7.3,80.2,2.1,3.5,4,1,20,2,25.94
+Player_0346,22,LW,Bundesliga,Portuguese,Right,35,14,14,0.4,0.4,6.2,90.2,3.1,0.5,2,0,0,1,39.82
+Player_0347,24,RB,Ligue 1,Italian,Right,24,3,4,0.12,0.17,6.6,80.7,1.0,1.2,1,0,0,0,17.53
+Player_0348,31,CDM,La Liga,English,Left,32,3,4,0.09,0.12,6.8,80.7,0.9,1.7,3,0,0,0,23.48
+Player_0349,24,GK,Premier League,Dutch,Right,23,1,1,0.04,0.04,7.5,67.9,1.1,1.7,4,1,17,3,21.96
+Player_0350,25,CB,La Liga,English,Right,36,2,1,0.06,0.03,7.8,82.4,3.9,3.4,1,0,0,0,27.62
+Player_0351,18,CB,Premier League,German,Right,22,4,4,0.18,0.18,6.7,70.6,3.8,0.5,2,0,0,4,20.65
+Player_0352,26,CB,Ligue 1,Italian,Right,42,5,5,0.12,0.12,7.1,75.4,3.3,2.8,1,0,0,1,20.51
+Player_0353,17,CDM,Bundesliga,French,Right,37,9,4,0.24,0.11,7.8,96.0,4.2,0.8,3,1,20,2,28.09
+Player_0354,21,CM,Bundesliga,Dutch,Right,41,6,8,0.15,0.2,6.8,82.3,3.9,3.1,2,0,0,0,24.62
+Player_0355,31,CAM,La Liga,Dutch,Right,30,19,19,0.63,0.63,6.5,82.9,1.7,2.5,2,0,0,2,52.32
+Player_0356,25,CAM,Ligue 1,Belgian,Left,24,27,17,1.12,0.71,7.2,76.8,1.9,2.1,4,0,0,3,47.56
+Player_0357,25,GK,Ligue 1,Italian,Right,39,2,3,0.05,0.08,7.2,80.6,1.9,3.8,4,0,0,4,13.47
+Player_0358,23,LB,La Liga,Belgian,Right,39,10,6,0.26,0.15,7.1,70.5,3.1,1.6,4,0,0,2,25.68
+Player_0359,30,RW,La Liga,Brazilian,Right,21,17,11,0.81,0.52,7.1,73.0,1.0,3.8,3,0,0,1,47.07
+Player_0360,23,CB,La Liga,Italian,Right,23,5,1,0.22,0.04,7.4,78.9,4.2,0.5,4,0,0,3,22.83
+Player_0361,24,ST,La Liga,Spanish,Right,43,17,6,0.4,0.14,7.0,88.9,1.0,3.6,4,0,0,1,53.21
+Player_0362,23,CB,Bundesliga,German,Left,41,4,4,0.1,0.1,7.5,96.0,2.3,1.4,4,0,0,2,20.05
+Player_0363,22,CM,La Liga,French,Left,40,4,14,0.1,0.35,7.2,80.9,3.0,1.4,2,0,0,2,35.77
+Player_0364,23,CB,Bundesliga,Spanish,Right,27,6,5,0.22,0.19,8.3,84.0,2.4,2.7,3,1,20,8,33.44
+Player_0365,23,CB,Premier League,English,Left,21,2,3,0.1,0.14,7.0,91.2,2.7,3.7,4,0,0,1,27.59
+Player_0366,20,LW,La Liga,Argentine,Right,25,19,16,0.76,0.64,7.4,88.6,2.0,3.0,4,0,0,1,45.0
+Player_0367,23,LW,Ligue 1,Portuguese,Left,38,16,10,0.42,0.26,7.6,82.8,2.8,1.1,4,0,0,2,30.71
+Player_0368,31,CB,Ligue 1,Belgian,Right,32,6,2,0.19,0.06,7.0,92.7,0.5,1.6,4,0,0,2,16.35
+Player_0369,19,LB,Bundesliga,German,Left,42,3,4,0.07,0.1,7.8,80.0,0.7,2.6,4,0,0,2,18.23
+Player_0370,21,CDM,Ligue 1,Portuguese,Left,32,5,2,0.16,0.06,7.5,78.6,1.2,1.0,2,1,16,3,22.58
+Player_0371,25,GK,La Liga,Portuguese,Left,40,3,4,0.07,0.1,7.1,95.4,4.0,1.2,4,0,0,6,20.75
+Player_0372,22,GK,La Liga,Portuguese,Right,26,2,4,0.08,0.15,7.1,62.2,1.9,1.1,4,0,0,0,18.08
+Player_0373,20,LB,Ligue 1,Portuguese,Left,22,5,0,0.23,0.0,7.1,86.9,1.6,1.3,1,1,28,2,17.69
+Player_0374,18,CB,Ligue 1,Dutch,Right,30,7,2,0.23,0.07,7.8,86.3,0.7,1.9,3,1,10,2,19.68
+Player_0375,18,ST,Bundesliga,English,Right,31,30,6,0.97,0.19,6.4,90.3,2.5,1.6,1,0,0,1,37.28
+Player_0376,23,CB,La Liga,Belgian,Right,40,3,2,0.07,0.05,6.8,74.0,3.5,1.9,4,1,17,2,26.87
+Player_0377,22,CDM,Bundesliga,Italian,Left,27,2,4,0.07,0.15,7.0,76.2,4.2,2.0,1,0,0,4,22.21
+Player_0378,21,CM,Bundesliga,Brazilian,Left,22,9,11,0.41,0.5,7.1,60.0,2.6,2.3,2,1,18,3,36.04
+Player_0379,26,CDM,Ligue 1,Portuguese,Left,20,4,2,0.2,0.1,6.3,69.8,1.1,2.3,4,0,0,3,21.1
+Player_0380,16,LW,Premier League,Brazilian,Right,33,25,21,0.76,0.64,6.7,79.8,3.5,2.4,3,0,0,3,45.57
+Player_0381,24,RB,Bundesliga,Belgian,Right,38,7,2,0.18,0.05,7.5,92.6,1.5,1.1,4,1,20,0,26.78
+Player_0382,24,LW,Serie A,Argentine,Right,38,15,10,0.39,0.26,8.0,88.3,2.3,2.3,1,0,0,2,43.05
+Player_0383,20,GK,Serie A,Spanish,Right,31,4,4,0.13,0.13,6.8,85.8,1.9,1.1,3,0,0,2,14.97
+Player_0384,21,LB,Serie A,Portuguese,Right,28,8,2,0.29,0.07,7.3,92.3,1.0,2.9,4,1,18,5,24.85
+Player_0385,19,LW,La Liga,Spanish,Right,22,23,14,1.05,0.64,7.1,81.8,3.7,2.2,2,0,0,3,45.3
+Player_0386,18,LB,Serie A,Argentine,Left,40,3,6,0.07,0.15,7.6,86.6,3.1,3.9,1,0,0,2,16.07
+Player_0387,22,CAM,Ligue 1,English,Left,24,17,15,0.71,0.62,6.3,78.2,2.5,2.0,4,1,15,2,44.04
+Player_0388,21,CB,Ligue 1,Brazilian,Left,43,4,2,0.09,0.05,7.4,88.0,3.9,3.1,4,0,0,2,16.74
+Player_0389,26,CB,Bundesliga,English,Right,37,4,1,0.11,0.03,6.8,77.4,2.4,2.9,4,1,24,2,33.76
+Player_0390,22,RB,Serie A,Brazilian,Right,38,2,3,0.05,0.08,6.2,77.5,3.6,3.5,4,0,0,5,15.49
+Player_0391,21,LB,La Liga,English,Right,40,3,2,0.07,0.05,7.2,68.7,1.7,0.6,2,0,0,3,19.87
+Player_0392,26,CB,Serie A,Belgian,Right,25,5,5,0.2,0.2,7.8,86.8,3.0,2.0,4,0,0,3,24.39
+Player_0393,25,RB,Serie A,French,Left,32,1,6,0.03,0.19,7.5,88.4,2.4,0.9,4,0,0,1,17.99
+Player_0394,18,LW,Bundesliga,Spanish,Left,32,25,12,0.78,0.38,7.3,78.8,1.1,2.8,3,1,15,1,45.59
+Player_0395,22,LB,Bundesliga,German,Right,34,4,1,0.12,0.03,6.6,92.5,2.2,3.2,4,0,0,0,17.4
+Player_0396,27,GK,Bundesliga,Dutch,Right,39,5,5,0.13,0.13,8.2,85.3,1.2,0.9,2,1,15,2,21.9
+Player_0397,28,CAM,Premier League,Argentine,Left,43,14,12,0.33,0.28,7.8,96.0,3.8,2.9,1,0,0,0,54.96
+Player_0398,22,RW,Serie A,Spanish,Right,40,16,12,0.4,0.3,6.9,81.6,2.2,1.0,4,0,0,1,41.04
+Player_0399,24,CB,Bundesliga,German,Right,38,4,2,0.11,0.05,6.9,89.1,1.5,3.6,1,0,0,3,20.04
+Player_0400,16,GK,Premier League,Dutch,Left,40,1,2,0.03,0.05,7.1,84.4,1.3,3.5,1,0,0,2,16.38
+Player_0401,24,LB,Ligue 1,Brazilian,Right,42,6,1,0.14,0.02,7.0,94.7,3.7,1.2,2,0,0,2,17.17
+Player_0402,25,CM,Serie A,Italian,Right,25,6,10,0.24,0.4,6.3,82.2,3.3,1.4,2,0,0,1,29.42
+Player_0403,21,RB,Bundesliga,Portuguese,Left,39,7,6,0.18,0.15,6.5,86.6,3.8,0.9,1,0,0,2,18.52
+Player_0404,23,CB,Bundesliga,Dutch,Left,25,7,3,0.28,0.12,7.1,79.1,4.4,1.5,1,0,0,2,19.95
+Player_0405,20,RB,La Liga,Spanish,Right,32,7,3,0.22,0.09,7.1,90.9,4.4,3.6,4,1,7,4,19.94
+Player_0406,23,ST,Serie A,Brazilian,Right,23,20,2,0.87,0.09,7.4,92.4,2.0,3.4,3,0,0,1,46.86
+Player_0407,22,ST,Premier League,Brazilian,Right,38,22,1,0.58,0.03,6.9,80.1,1.7,2.5,4,1,23,2,60.51
+Player_0408,24,RB,Serie A,Dutch,Right,43,4,2,0.09,0.05,8.0,73.9,3.7,3.2,3,1,15,1,22.67
+Player_0409,23,CAM,Serie A,Belgian,Left,40,20,12,0.5,0.3,6.5,90.7,2.1,2.0,1,1,16,2,49.71
+Player_0410,27,CB,La Liga,Dutch,Right,41,3,1,0.07,0.02,6.9,91.4,0.6,2.3,1,1,19,2,36.68
+Player_0411,34,LB,Bundesliga,Brazilian,Right,38,6,2,0.16,0.05,7.5,83.2,1.8,1.4,3,0,0,1,15.46
+Player_0412,26,CDM,La Liga,Italian,Left,38,2,0,0.05,0.0,7.0,76.8,3.4,1.5,3,0,0,2,29.97
+Player_0413,26,ST,Premier League,English,Right,37,27,4,0.73,0.11,5.9,87.8,4.3,0.7,3,0,0,0,67.69
+Player_0414,27,CAM,Premier League,Portuguese,Right,36,20,17,0.56,0.47,7.2,83.3,2.0,2.4,3,0,0,2,56.87
+Player_0415,16,LB,Bundesliga,Brazilian,Right,21,1,6,0.05,0.29,7.5,83.0,2.1,4.0,2,0,0,1,14.92
+Player_0416,23,ST,Ligue 1,French,Right,39,15,4,0.38,0.1,6.8,83.1,3.1,3.5,4,1,14,2,47.8
+Player_0417,24,RW,Ligue 1,Italian,Right,27,12,10,0.44,0.37,5.5,96.0,3.5,1.3,4,0,0,4,29.19
+Player_0418,28,GK,Serie A,Belgian,Right,29,6,10,0.21,0.34,7.6,75.5,4.0,2.1,2,0,0,0,16.67
+Player_0419,21,GK,Premier League,Belgian,Right,44,1,4,0.02,0.09,6.6,79.2,0.8,3.3,1,0,0,2,19.51
+Player_0420,16,LB,Ligue 1,Belgian,Right,21,7,3,0.33,0.14,6.7,83.8,1.6,1.2,2,0,0,4,10.46
+Player_0421,26,LW,La Liga,Argentine,Left,21,13,12,0.62,0.57,6.7,93.0,0.7,3.1,4,1,18,1,54.68
+Player_0422,18,LB,Premier League,Italian,Right,33,5,1,0.15,0.03,6.6,82.0,2.9,1.7,2,1,17,2,25.31
+Player_0423,27,RW,Ligue 1,Italian,Right,21,22,11,1.05,0.52,6.3,89.9,1.4,3.6,4,0,0,1,37.62
+Player_0424,29,RW,Bundesliga,Argentine,Right,33,20,14,0.61,0.42,7.6,91.5,4.3,4.0,1,0,0,0,41.63
+Player_0425,19,LW,Ligue 1,Brazilian,Right,32,15,19,0.47,0.59,6.2,82.4,0.6,3.7,1,1,17,0,36.28
+Player_0426,31,RW,Ligue 1,Spanish,Right,27,19,11,0.7,0.41,6.9,90.1,1.0,2.9,2,0,0,1,36.36
+Player_0427,21,RW,Bundesliga,French,Right,36,19,10,0.53,0.28,7.5,90.8,1.6,3.7,2,1,31,3,41.75
+Player_0428,31,LW,Ligue 1,English,Right,43,16,11,0.37,0.26,7.9,85.7,3.8,1.8,4,1,22,1,33.78
+Player_0429,25,CAM,Bundesliga,Belgian,Right,42,23,10,0.55,0.24,8.2,91.3,1.7,1.4,4,0,0,1,52.64
+Player_0430,22,CAM,Serie A,Brazilian,Right,31,16,14,0.52,0.45,5.5,78.0,1.3,3.2,2,0,0,4,34.08
+Player_0431,24,CDM,Serie A,Portuguese,Left,44,5,3,0.11,0.07,6.9,66.6,4.1,1.1,4,1,17,3,27.64
+Player_0432,23,CB,Premier League,French,Left,23,9,4,0.39,0.17,7.1,74.7,4.2,2.9,1,0,0,5,29.78
+Player_0433,17,ST,La Liga,English,Left,41,22,4,0.54,0.1,7.0,78.2,3.3,0.6,2,0,0,3,40.81
+Player_0434,24,CM,Serie A,Dutch,Left,41,1,9,0.02,0.22,6.8,78.9,3.4,0.6,2,1,25,4,30.46
+Player_0435,28,ST,Ligue 1,Belgian,Right,25,30,2,1.2,0.08,6.0,82.8,2.6,1.4,1,0,0,0,41.33
+Player_0436,16,LW,La Liga,Dutch,Right,42,17,11,0.4,0.26,6.2,64.2,1.8,2.1,3,0,0,4,33.75
+Player_0437,26,CM,Serie A,English,Left,29,6,11,0.21,0.38,6.8,78.3,3.0,0.6,1,1,17,5,41.24
+Player_0438,19,CB,Premier League,Brazilian,Left,33,5,6,0.15,0.18,5.7,79.0,3.5,2.0,2,0,0,1,24.12
+Player_0439,27,CAM,Ligue 1,Italian,Right,34,17,10,0.5,0.29,7.1,87.2,2.9,1.8,4,0,0,1,36.36
+Player_0440,16,CM,Premier League,Argentine,Left,31,5,15,0.16,0.48,6.7,80.7,2.1,2.6,4,1,15,3,38.04
+Player_0441,23,GK,Ligue 1,Portuguese,Right,22,3,4,0.14,0.18,6.8,95.5,1.6,1.5,1,0,0,0,11.84
+Player_0442,23,CDM,Bundesliga,Dutch,Right,24,4,4,0.17,0.17,5.9,89.0,3.9,2.4,4,1,22,1,33.5
+Player_0443,28,RW,Premier League,Portuguese,Left,42,17,16,0.4,0.38,6.7,81.2,1.1,0.8,2,0,0,2,48.47
+Player_0444,24,LB,Bundesliga,English,Right,41,6,4,0.15,0.1,7.1,80.8,0.5,2.1,2,0,0,1,22.78
+Player_0445,27,LW,La Liga,Spanish,Right,27,15,12,0.56,0.44,7.8,90.7,3.9,0.5,3,1,9,3,48.42
+Player_0446,26,LB,Bundesliga,French,Right,37,2,4,0.05,0.11,6.3,81.1,2.0,3.6,2,0,0,2,24.0
+Player_0447,30,GK,Ligue 1,Argentine,Right,42,4,3,0.1,0.07,7.4,78.1,4.4,1.7,2,0,0,2,14.88
+Player_0448,30,RW,La Liga,Portuguese,Left,29,12,11,0.41,0.38,8.0,88.2,1.7,4.0,1,1,15,3,50.21
+Player_0449,28,CM,Serie A,English,Left,25,6,8,0.24,0.32,6.9,87.4,2.9,1.5,4,0,0,1,31.86
+Player_0450,31,LW,La Liga,French,Right,24,11,13,0.46,0.54,5.8,77.9,4.2,3.6,1,0,0,3,36.01
+Player_0451,27,LB,Bundesliga,Belgian,Right,31,6,4,0.19,0.13,8.2,75.3,1.6,3.8,2,0,0,1,21.95
+Player_0452,17,CDM,Serie A,French,Right,30,6,4,0.2,0.13,7.6,82.7,2.2,3.3,2,1,17,2,24.38
+Player_0453,26,CB,Ligue 1,Spanish,Right,21,6,1,0.29,0.05,6.8,85.0,3.9,2.9,2,0,0,3,18.36
+Player_0454,21,CAM,La Liga,Italian,Right,25,17,9,0.68,0.36,7.6,79.7,0.9,0.8,4,0,0,3,42.94
+Player_0455,26,CM,Serie A,Dutch,Right,38,8,14,0.21,0.37,7.0,82.0,0.9,3.1,1,0,0,2,33.16
+Player_0456,23,CM,Bundesliga,Argentine,Right,39,5,12,0.13,0.31,7.5,79.2,4.0,3.3,3,0,0,3,27.04
+Player_0457,29,RB,Premier League,Portuguese,Right,44,2,3,0.05,0.07,6.7,70.0,0.8,0.7,4,1,22,0,23.96
+Player_0458,25,ST,Serie A,Belgian,Right,43,20,1,0.47,0.02,6.8,87.1,3.8,2.3,1,0,0,3,52.48
+Player_0459,23,LB,La Liga,English,Right,40,4,6,0.1,0.15,7.0,85.6,0.6,1.7,4,0,0,3,20.91
+Player_0460,27,CAM,Bundesliga,Brazilian,Left,28,21,9,0.75,0.32,6.5,88.8,3.4,1.7,3,0,0,0,44.94
+Player_0461,20,CDM,Serie A,Brazilian,Right,34,4,2,0.12,0.06,6.3,76.4,1.3,1.9,2,0,0,5,19.87
+Player_0462,30,CDM,La Liga,English,Right,40,7,2,0.17,0.05,7.3,84.0,1.8,2.0,3,0,0,3,31.37
+Player_0463,30,RW,La Liga,Brazilian,Right,30,23,12,0.77,0.4,6.7,92.0,4.4,1.0,1,0,0,3,51.77
+Player_0464,24,RW,La Liga,English,Right,24,16,14,0.67,0.58,6.0,95.0,3.5,0.7,4,0,0,4,53.01
+Player_0465,22,RB,Ligue 1,Italian,Left,27,5,5,0.19,0.19,6.8,78.6,0.9,2.7,3,1,24,6,18.9
+Player_0466,26,RB,Bundesliga,Portuguese,Right,32,9,5,0.28,0.16,7.1,82.2,3.9,2.2,3,1,17,5,23.85
+Player_0467,20,GK,Premier League,Brazilian,Right,22,4,2,0.18,0.09,6.4,76.4,3.3,3.1,4,0,0,1,17.88
+Player_0468,30,RW,Bundesliga,Belgian,Right,36,23,10,0.64,0.28,7.5,79.0,1.2,1.9,3,1,20,0,49.86
+Player_0469,26,CDM,La Liga,Belgian,Right,22,7,0,0.32,0.0,6.8,83.5,2.3,3.6,1,0,0,7,27.45
+Player_0470,18,CAM,La Liga,Portuguese,Right,21,25,17,1.19,0.81,7.5,81.3,0.9,2.5,1,0,0,1,44.41
+Player_0471,22,RW,Premier League,Belgian,Left,24,26,14,1.08,0.58,7.4,87.3,3.9,1.2,1,0,0,4,48.15
+Player_0472,22,CB,La Liga,Belgian,Right,31,5,4,0.16,0.13,7.6,82.9,2.9,3.1,4,1,14,3,34.65
+Player_0473,27,RB,La Liga,Dutch,Right,22,5,2,0.23,0.09,7.0,71.4,2.4,3.7,1,1,17,2,32.27
+Player_0474,22,RB,La Liga,Spanish,Right,40,5,1,0.12,0.03,6.0,84.6,1.9,3.6,2,0,0,3,19.32
+Player_0475,27,ST,La Liga,Brazilian,Right,34,25,2,0.74,0.06,6.7,84.5,1.8,3.7,4,1,10,4,71.25
+Player_0476,24,CAM,Serie A,Argentine,Right,32,17,10,0.53,0.31,7.3,82.7,1.1,3.9,2,0,0,1,47.01
+Player_0477,21,RW,Bundesliga,Italian,Right,37,18,16,0.49,0.43,6.4,70.0,0.9,0.8,1,0,0,2,39.67
+Player_0478,22,CM,La Liga,Brazilian,Right,38,5,9,0.13,0.24,7.1,86.5,4.3,2.6,3,0,0,2,31.66
+Player_0479,28,CDM,Bundesliga,English,Right,26,3,3,0.12,0.12,6.6,68.3,1.2,2.1,2,0,0,3,23.08
+Player_0480,26,RB,Serie A,Portuguese,Right,27,5,5,0.19,0.19,7.2,77.4,1.3,3.9,1,1,12,0,31.04
+Player_0481,29,ST,Serie A,Dutch,Right,37,25,2,0.68,0.05,7.1,83.3,1.8,1.9,3,0,0,0,49.0
+Player_0482,25,CM,La Liga,Argentine,Left,30,6,5,0.2,0.17,8.0,72.8,2.9,0.8,4,0,0,2,41.85
+Player_0483,26,CAM,Bundesliga,French,Right,41,14,14,0.34,0.34,7.0,85.2,1.1,2.6,2,1,20,1,56.3
+Player_0484,23,CAM,Ligue 1,Spanish,Left,20,9,8,0.45,0.4,6.5,79.9,1.9,3.5,3,0,0,2,35.15
+Player_0485,23,RW,Premier League,Brazilian,Left,27,18,12,0.67,0.44,7.1,74.5,3.8,1.7,2,0,0,2,58.13
+Player_0486,25,CM,Ligue 1,Dutch,Right,34,7,12,0.21,0.35,5.5,77.0,3.5,0.9,1,1,20,1,30.97
+Player_0487,32,CAM,Ligue 1,Spanish,Right,29,16,9,0.55,0.31,7.3,83.2,1.6,1.9,1,0,0,0,28.82
+Player_0488,19,ST,La Liga,Belgian,Right,30,20,5,0.67,0.17,6.3,85.7,1.8,1.1,1,0,0,3,48.06
+Player_0489,24,ST,Premier League,French,Right,37,18,1,0.49,0.03,6.9,86.4,4.4,3.7,4,0,0,1,62.13
+Player_0490,25,CB,La Liga,German,Right,28,5,3,0.18,0.11,6.6,81.3,0.8,1.3,4,1,14,2,36.75
+Player_0491,30,CAM,Serie A,Spanish,Left,38,21,21,0.55,0.55,7.1,77.9,3.9,2.8,2,1,18,3,41.44
+Player_0492,24,LB,Ligue 1,Dutch,Right,40,4,1,0.1,0.03,7.1,72.4,1.5,0.9,1,1,11,2,23.6
+Player_0493,22,LB,Serie A,German,Left,34,9,4,0.26,0.12,6.6,66.3,0.9,3.3,2,1,12,2,28.66
+Player_0494,27,CM,Ligue 1,Argentine,Left,20,8,9,0.4,0.45,6.9,69.5,2.0,2.4,2,0,0,0,31.14
+Player_0495,29,CM,Premier League,Belgian,Right,38,7,11,0.18,0.29,7.1,79.5,3.9,1.5,4,1,19,0,46.64
+Player_0496,22,RB,Ligue 1,Argentine,Right,42,3,3,0.07,0.07,6.8,69.6,2.1,3.0,3,0,0,3,14.69
+Player_0497,21,ST,Ligue 1,English,Left,21,13,1,0.62,0.05,6.8,78.6,1.0,2.0,4,0,0,1,30.11
+Player_0498,21,CB,Bundesliga,English,Left,27,8,4,0.3,0.15,7.4,87.6,1.2,2.8,3,0,0,2,19.4
+Player_0499,22,ST,Serie A,Argentine,Right,22,22,8,1.0,0.36,7.1,71.1,2.9,3.7,3,0,0,1,48.01
+Player_0500,23,ST,La Liga,Brazilian,Right,26,19,1,0.73,0.04,6.7,74.2,2.6,1.8,3,0,0,6,46.97
+Player_0501,26,LW,Bundesliga,Spanish,Right,41,15,14,0.37,0.34,7.1,81.7,3.3,2.9,2,1,14,2,53.33
+Player_0502,23,ST,Ligue 1,German,Right,26,22,2,0.85,0.08,6.2,77.4,2.4,2.6,1,1,21,3,42.51
+Player_0503,24,RW,Bundesliga,German,Right,42,29,12,0.69,0.29,6.9,76.0,1.9,1.1,4,1,14,0,51.28
+Player_0504,22,CM,La Liga,Argentine,Left,20,9,10,0.45,0.5,7.4,89.4,3.7,2.7,1,0,0,1,31.66
+Player_0505,26,RW,La Liga,German,Right,42,22,8,0.52,0.19,5.5,81.5,3.0,2.8,3,0,0,2,46.03
+Player_0506,26,GK,Serie A,Belgian,Left,36,3,2,0.08,0.06,6.2,82.5,1.8,1.7,2,0,0,3,18.05
+Player_0507,24,LB,Ligue 1,Portuguese,Right,25,6,3,0.24,0.12,7.1,71.9,0.5,0.9,3,0,0,3,17.48
+Player_0508,30,CAM,Bundesliga,Dutch,Right,29,21,13,0.72,0.45,7.6,82.5,3.5,1.4,1,0,0,0,46.06
+Player_0509,21,LW,Ligue 1,Portuguese,Right,25,12,14,0.48,0.56,5.9,85.5,1.0,2.6,1,0,0,1,33.11
+Player_0510,19,ST,Premier League,French,Left,44,29,3,0.66,0.07,6.9,80.5,2.4,0.6,3,1,18,4,61.45
+Player_0511,23,ST,La Liga,Argentine,Right,41,22,3,0.54,0.07,7.2,80.1,0.6,1.6,4,0,0,3,61.7
+Player_0512,28,RW,La Liga,English,Right,31,21,13,0.68,0.42,7.3,79.7,0.7,2.9,3,1,15,1,55.78
+Player_0513,31,LW,Premier League,Brazilian,Right,22,13,18,0.59,0.82,6.4,69.6,1.2,1.0,2,1,16,1,60.84
+Player_0514,30,CB,Bundesliga,German,Right,26,6,4,0.23,0.15,6.5,78.3,0.9,3.2,4,0,0,2,19.97
+Player_0515,25,CM,Ligue 1,Belgian,Left,40,3,9,0.07,0.23,6.7,77.3,2.4,3.1,3,0,0,2,22.89
+Player_0516,22,CM,La Liga,German,Left,21,6,9,0.29,0.43,8.1,74.9,2.3,2.2,2,0,0,2,38.54
+Player_0517,29,CDM,Premier League,Dutch,Right,44,5,3,0.11,0.07,6.3,91.9,3.1,3.4,4,1,21,4,39.18
+Player_0518,32,CM,Bundesliga,Spanish,Right,25,7,4,0.28,0.16,7.0,83.8,2.8,2.5,3,0,0,0,30.05
+Player_0519,28,CM,Ligue 1,Italian,Right,30,3,10,0.1,0.33,5.9,85.7,3.0,0.8,3,0,0,0,22.05
+Player_0520,22,CAM,Premier League,Belgian,Right,28,22,8,0.79,0.29,6.1,79.6,3.9,2.6,4,0,0,1,56.78
+Player_0521,21,RB,Premier League,Argentine,Right,26,3,2,0.12,0.08,6.1,82.4,1.8,4.0,2,0,0,0,24.8
+Player_0522,16,LB,La Liga,German,Right,29,2,5,0.07,0.17,6.7,75.3,4.1,1.1,1,1,17,2,19.17
+Player_0523,17,RB,Ligue 1,German,Right,40,4,4,0.1,0.1,6.6,84.7,3.0,2.4,2,0,0,1,14.11
+Player_0524,28,RW,Ligue 1,Spanish,Left,42,20,7,0.48,0.17,8.0,78.9,3.1,0.7,4,0,0,2,34.27
+Player_0525,24,RB,Ligue 1,Belgian,Right,36,8,4,0.22,0.11,5.8,84.7,1.4,3.3,4,0,0,4,15.05
+Player_0526,20,CAM,La Liga,Belgian,Right,21,21,14,1.0,0.67,7.0,80.9,0.8,2.2,4,1,22,4,55.24
+Player_0527,23,RW,La Liga,Brazilian,Right,26,9,12,0.35,0.46,6.7,87.8,1.2,3.4,1,1,16,1,41.48
+Player_0528,25,RW,Ligue 1,English,Right,23,17,9,0.74,0.39,6.5,92.4,4.2,1.5,2,1,22,1,39.3
+Player_0529,27,RB,La Liga,German,Right,26,4,6,0.15,0.23,6.5,78.6,3.5,2.8,3,1,17,0,30.67
+Player_0530,19,GK,La Liga,Brazilian,Left,37,2,4,0.05,0.11,7.1,89.4,2.3,3.5,1,0,0,2,14.36
+Player_0531,29,LW,Premier League,Spanish,Left,21,21,12,1.0,0.57,6.7,86.7,3.5,3.1,2,0,0,3,54.01
+Player_0532,23,GK,La Liga,Belgian,Right,32,7,2,0.22,0.06,6.4,80.5,2.4,3.6,3,1,17,3,23.12
+Player_0533,26,RW,Premier League,Belgian,Right,32,22,15,0.69,0.47,5.7,72.0,1.4,2.1,3,1,18,2,74.13
+Player_0534,16,LB,Bundesliga,Belgian,Left,28,6,6,0.21,0.21,6.5,76.7,1.1,0.9,2,0,0,0,15.69
+Player_0535,23,CB,Premier League,Italian,Right,35,2,3,0.06,0.09,6.2,93.7,0.9,2.0,4,0,0,1,22.88
+Player_0536,23,CDM,Serie A,Spanish,Right,40,4,3,0.1,0.07,8.4,91.0,3.1,2.5,4,0,0,3,25.34
+Player_0537,24,CM,La Liga,Portuguese,Right,42,5,12,0.12,0.29,7.0,96.0,1.5,0.8,3,0,0,1,38.48
+Player_0538,29,CM,Premier League,English,Left,36,4,14,0.11,0.39,7.1,83.4,2.4,2.2,2,1,15,0,45.4
+Player_0539,20,CDM,La Liga,Belgian,Right,33,6,4,0.18,0.12,6.6,78.1,2.7,3.3,3,0,0,0,22.12
+Player_0540,21,RW,Ligue 1,Spanish,Right,33,22,9,0.67,0.27,6.5,86.1,2.0,2.1,4,1,17,5,33.64
+Player_0541,20,CAM,Bundesliga,English,Left,20,11,13,0.55,0.65,7.7,87.0,2.5,0.6,3,0,0,1,36.66
+Player_0542,22,CDM,Bundesliga,Spanish,Right,20,8,2,0.4,0.1,7.3,86.1,3.0,3.2,3,0,0,2,27.32
+Player_0543,29,CB,La Liga,Dutch,Right,35,3,2,0.09,0.06,6.9,76.2,1.2,1.4,3,1,19,1,31.59
+Player_0544,25,CM,Serie A,Dutch,Left,31,6,10,0.19,0.32,5.9,82.7,2.1,2.6,4,1,12,3,29.35
+Player_0545,26,LW,Bundesliga,Argentine,Right,31,15,12,0.48,0.39,7.4,82.2,1.9,2.9,4,0,0,4,45.01
+Player_0546,20,LB,Ligue 1,Spanish,Right,33,3,0,0.09,0.0,7.4,85.3,2.0,1.5,3,0,0,2,12.62
+Player_0547,22,CDM,Bundesliga,French,Right,36,9,1,0.25,0.03,7.3,69.7,4.1,0.7,3,1,19,0,34.46
+Player_0548,28,GK,Serie A,French,Right,26,4,2,0.15,0.08,7.7,64.7,1.0,3.0,1,0,0,1,19.17
+Player_0549,18,RW,Premier League,Portuguese,Right,41,26,12,0.63,0.29,6.5,80.5,0.9,3.4,2,0,0,3,46.95
+Player_0550,20,RB,Premier League,Argentine,Left,24,2,3,0.08,0.12,6.1,83.9,0.9,2.8,4,0,0,0,23.13
+Player_0551,23,GK,Serie A,Italian,Right,38,4,3,0.11,0.08,7.2,96.0,2.5,2.2,3,0,0,2,14.37
+Player_0552,20,CB,Premier League,Brazilian,Left,22,4,2,0.18,0.09,6.6,80.4,1.8,2.4,4,0,0,2,20.57
+Player_0553,23,ST,La Liga,English,Left,42,28,3,0.67,0.07,7.1,77.9,1.8,1.8,4,1,18,2,62.25
+Player_0554,28,CM,La Liga,French,Right,35,4,9,0.11,0.26,7.0,74.5,1.7,3.2,3,0,0,5,33.99
+Player_0555,25,CM,Ligue 1,Belgian,Right,34,4,9,0.12,0.26,7.7,73.1,0.6,2.0,4,0,0,2,26.37
+Player_0556,27,CB,Serie A,Brazilian,Right,38,7,3,0.18,0.08,6.3,79.7,4.1,1.7,4,1,20,3,25.88
+Player_0557,22,RW,Serie A,Belgian,Right,30,19,9,0.63,0.3,7.5,85.4,1.7,2.7,4,0,0,2,33.45
+Player_0558,23,CM,Bundesliga,Argentine,Right,36,3,11,0.08,0.31,7.2,82.4,0.7,3.9,3,0,0,4,32.05
+Player_0559,23,CM,Serie A,Spanish,Left,27,7,16,0.26,0.59,6.0,91.1,3.8,3.7,2,1,23,1,37.52
+Player_0560,23,GK,Bundesliga,English,Left,41,5,1,0.12,0.02,7.4,85.8,3.3,2.8,1,1,14,4,21.97
+Player_0561,21,GK,Serie A,German,Left,38,2,3,0.05,0.08,6.2,89.3,3.4,0.6,2,1,17,6,20.86
+Player_0562,34,RB,Ligue 1,French,Right,41,1,5,0.02,0.12,7.6,96.0,2.3,1.6,2,1,12,4,13.9
+Player_0563,23,LW,La Liga,English,Right,41,13,7,0.32,0.17,6.3,84.1,1.8,3.6,4,0,0,0,48.43
+Player_0564,23,LW,La Liga,Portuguese,Left,32,10,15,0.31,0.47,7.3,88.4,2.7,1.2,4,0,0,1,46.33
+Player_0565,27,ST,Premier League,Portuguese,Left,39,26,0,0.67,0.0,7.4,83.4,1.3,1.4,1,1,12,3,63.7
+Player_0566,27,GK,Serie A,French,Right,34,4,3,0.12,0.09,6.6,84.0,1.9,2.7,1,1,18,2,17.04
+Player_0567,18,CAM,Bundesliga,Spanish,Left,24,18,17,0.75,0.71,6.3,85.4,2.0,1.8,3,0,0,4,31.08
+Player_0568,23,CB,La Liga,French,Left,25,7,2,0.28,0.08,8.2,83.1,0.8,2.5,1,0,0,2,26.49
+Player_0569,21,GK,Ligue 1,Italian,Left,44,3,2,0.07,0.05,7.2,88.8,4.1,3.9,2,0,0,3,13.69
+Player_0570,19,CB,Premier League,English,Right,41,3,3,0.07,0.07,7.0,71.7,1.1,2.7,2,0,0,4,23.6
+Player_0571,24,RW,Premier League,Argentine,Right,38,15,16,0.39,0.42,7.4,87.9,4.4,2.8,1,0,0,1,56.64
+Player_0572,24,LB,Premier League,Portuguese,Right,35,6,3,0.17,0.09,7.0,86.9,1.0,1.1,2,1,17,1,26.81
+Player_0573,25,CB,Serie A,Dutch,Left,35,9,2,0.26,0.06,6.3,90.3,2.6,3.6,1,1,22,3,25.59
+Player_0574,28,CM,Serie A,Argentine,Left,40,4,14,0.1,0.35,6.6,86.0,3.5,0.6,1,1,18,2,31.82
+Player_0575,25,RB,Ligue 1,Portuguese,Right,32,6,7,0.19,0.22,7.5,78.3,0.6,1.1,3,1,18,3,24.58
+Player_0576,25,CDM,La Liga,Brazilian,Right,26,4,4,0.15,0.15,7.2,85.0,4.5,0.5,1,1,12,1,36.7
+Player_0577,17,GK,Serie A,Italian,Right,35,2,3,0.06,0.09,6.9,76.4,1.9,1.4,1,0,0,1,13.06
+Player_0578,24,CAM,Bundesliga,Dutch,Right,33,13,15,0.39,0.45,7.1,91.9,1.0,2.0,2,0,0,4,44.94
+Player_0579,22,GK,Premier League,English,Right,39,5,1,0.13,0.03,7.4,81.4,2.6,3.4,2,0,0,3,18.64
+Player_0580,28,LW,Ligue 1,Portuguese,Right,41,24,11,0.59,0.27,7.0,88.9,3.2,1.2,3,0,0,2,35.12
+Player_0581,25,CDM,Premier League,English,Right,43,3,2,0.07,0.05,6.3,76.5,2.5,3.4,4,1,12,3,41.59
+Player_0582,26,LW,La Liga,English,Right,36,18,13,0.5,0.36,8.2,78.0,3.5,1.1,3,0,0,2,50.72
+Player_0583,26,LB,Ligue 1,Italian,Right,41,8,5,0.2,0.12,7.4,76.1,1.0,2.0,1,1,20,0,22.97
+Player_0584,30,LB,Premier League,Belgian,Right,23,3,3,0.13,0.13,5.5,74.9,2.8,0.8,3,1,24,1,30.62
+Player_0585,23,RB,Serie A,Brazilian,Right,39,4,1,0.1,0.03,6.9,77.8,3.4,2.3,2,1,18,2,28.05
+Player_0586,28,LB,Serie A,English,Right,21,4,2,0.19,0.1,7.1,86.2,1.3,0.9,2,0,0,3,17.25
+Player_0587,17,RW,La Liga,Brazilian,Right,38,20,17,0.53,0.45,6.0,80.3,3.6,2.0,2,0,0,3,35.1
+Player_0588,20,LB,Premier League,English,Right,34,2,3,0.06,0.09,6.7,68.1,3.7,3.2,2,0,0,2,23.56
+Player_0589,26,ST,Premier League,Portuguese,Left,23,16,4,0.7,0.17,7.7,81.8,4.0,3.5,2,1,14,2,75.17
+Player_0590,25,RB,Ligue 1,French,Right,24,4,2,0.17,0.08,7.3,83.1,0.7,3.6,3,0,0,3,16.38
+Player_0591,19,CM,Bundesliga,English,Right,37,5,15,0.14,0.41,7.2,79.5,3.3,0.6,4,1,20,1,28.58
+Player_0592,23,LB,Ligue 1,Spanish,Right,24,4,1,0.17,0.04,7.1,88.9,1.5,0.9,4,0,0,0,14.88
+Player_0593,24,CAM,Bundesliga,Brazilian,Left,42,19,12,0.45,0.29,6.6,81.8,2.4,1.4,1,1,18,2,52.1
+Player_0594,20,RW,Premier League,Argentine,Right,36,19,13,0.53,0.36,7.3,83.0,4.4,3.7,3,0,0,1,51.76
+Player_0595,22,CDM,Bundesliga,Spanish,Right,37,3,1,0.08,0.03,7.1,71.6,1.8,2.0,2,1,28,2,27.61
+Player_0596,26,CM,Ligue 1,Argentine,Left,42,10,8,0.24,0.19,7.3,77.7,3.4,0.7,4,1,14,1,32.96
+Player_0597,24,GK,Premier League,German,Right,30,3,0,0.1,0.0,7.6,86.7,1.6,3.3,3,1,13,2,23.26
+Player_0598,22,LW,Ligue 1,Argentine,Right,33,20,22,0.61,0.67,7.6,78.7,4.5,3.9,3,0,0,2,41.5
+Player_0599,24,RW,Ligue 1,Italian,Right,36,13,15,0.36,0.42,7.1,85.8,3.2,3.4,3,1,14,3,39.35
+Player_0600,28,CB,Bundesliga,Dutch,Right,37,2,4,0.05,0.11,6.2,91.5,3.5,1.9,2,1,19,2,30.42
+Player_0601,27,CB,Serie A,Italian,Right,35,4,4,0.11,0.11,6.4,72.4,2.6,1.5,2,0,0,1,24.29
+Player_0602,24,RB,Bundesliga,Argentine,Right,21,5,4,0.24,0.19,6.3,85.6,1.6,2.1,3,0,0,2,21.64
+Player_0603,24,LW,Bundesliga,English,Left,43,17,14,0.4,0.33,7.2,83.7,2.6,2.2,4,0,0,1,44.87
+Player_0604,33,ST,La Liga,Argentine,Right,34,24,3,0.71,0.09,7.3,89.2,4.1,1.6,1,0,0,2,51.82
+Player_0605,25,CB,Ligue 1,Belgian,Left,22,4,3,0.18,0.14,8.4,89.9,1.2,2.4,1,0,0,2,18.56
+Player_0606,23,RB,Bundesliga,Argentine,Right,25,2,1,0.08,0.04,6.4,86.8,3.2,3.7,1,1,19,0,20.56
+Player_0607,21,GK,Ligue 1,German,Right,35,3,3,0.09,0.09,6.9,72.2,2.4,3.5,3,1,18,2,15.06
+Player_0608,24,RB,Premier League,Spanish,Right,32,10,4,0.31,0.12,7.2,73.6,1.3,0.5,1,0,0,0,27.68
+Player_0609,18,CM,Bundesliga,Dutch,Right,29,5,9,0.17,0.31,7.0,88.8,4.1,3.0,1,0,0,3,20.37
+Player_0610,21,LW,Ligue 1,Argentine,Right,23,19,16,0.83,0.7,6.7,72.4,3.1,3.7,3,0,0,1,30.23
+Player_0611,17,RW,La Liga,Brazilian,Right,21,21,13,1.0,0.62,6.6,80.7,3.7,3.7,4,0,0,2,41.24
+Player_0612,21,CAM,Ligue 1,Dutch,Right,22,15,14,0.68,0.64,6.5,78.8,4.1,2.1,1,0,0,0,37.58
+Player_0613,23,CAM,La Liga,Belgian,Right,29,21,12,0.72,0.41,7.5,73.4,1.0,1.5,3,0,0,0,55.74
+Player_0614,31,CDM,Bundesliga,French,Left,25,7,3,0.28,0.12,7.0,84.7,3.4,2.1,3,0,0,4,23.4
+Player_0615,19,RB,Ligue 1,Spanish,Right,35,4,3,0.11,0.09,5.5,78.6,1.1,0.6,4,0,0,1,14.04
+Player_0616,26,GK,Ligue 1,Dutch,Left,26,8,2,0.31,0.08,7.1,78.1,4.5,1.6,3,0,0,2,17.57
+Player_0617,26,CM,Bundesliga,French,Right,25,4,12,0.16,0.48,7.4,80.4,0.6,1.2,2,1,18,3,37.22
+Player_0618,20,RB,Ligue 1,Dutch,Right,36,2,2,0.06,0.06,6.6,91.0,3.9,1.4,2,0,0,3,13.56
+Player_0619,18,CDM,La Liga,Italian,Right,23,3,3,0.13,0.13,6.1,91.0,1.8,1.8,3,0,0,3,22.7
+Player_0620,23,CM,Premier League,Belgian,Right,33,3,7,0.09,0.21,6.8,93.5,1.4,3.6,2,0,0,0,37.72
+Player_0621,25,LB,Ligue 1,Italian,Right,44,5,4,0.11,0.09,6.6,90.1,1.2,2.9,4,1,19,2,20.96
+Player_0622,25,RB,Serie A,French,Right,31,9,3,0.29,0.1,6.4,74.6,4.0,2.2,4,0,0,1,22.7
+Player_0623,30,ST,Ligue 1,French,Left,22,12,3,0.55,0.14,6.9,77.9,1.1,0.9,2,1,15,2,43.25
+Player_0624,18,CM,La Liga,English,Right,33,3,3,0.09,0.09,6.9,89.4,0.5,0.8,2,0,0,2,21.32
+Player_0625,20,ST,Bundesliga,Dutch,Right,24,21,1,0.88,0.04,6.2,82.6,2.0,1.0,3,0,0,4,37.75
+Player_0626,19,CDM,Ligue 1,Portuguese,Left,25,3,4,0.12,0.16,6.4,81.1,0.6,3.6,4,0,0,3,17.69
+Player_0627,28,LW,La Liga,German,Right,22,21,14,0.95,0.64,5.8,79.0,1.3,3.8,2,1,14,0,47.4
+Player_0628,21,GK,La Liga,Portuguese,Left,41,4,3,0.1,0.07,7.0,87.3,0.8,2.7,3,0,0,1,16.68
+Player_0629,16,ST,Ligue 1,Italian,Right,22,24,5,1.09,0.23,7.2,81.0,0.7,2.3,1,0,0,2,25.54
+Player_0630,17,CB,Premier League,Brazilian,Right,34,9,5,0.26,0.15,6.9,77.0,2.1,0.9,4,0,0,3,19.43
+Player_0631,19,RB,Bundesliga,French,Left,44,6,0,0.14,0.0,7.5,75.7,1.0,1.5,3,0,0,0,18.66
+Player_0632,22,LB,Serie A,French,Right,30,6,1,0.2,0.03,6.8,87.3,2.9,2.9,4,1,21,4,24.45
+Player_0633,25,LW,Bundesliga,German,Right,27,16,15,0.59,0.56,7.6,73.0,1.4,3.4,3,0,0,1,42.44
+Player_0634,19,LW,Serie A,Argentine,Left,42,18,9,0.43,0.21,5.5,75.8,1.0,3.5,3,1,17,1,35.07
+Player_0635,20,CAM,Bundesliga,Dutch,Left,44,18,12,0.41,0.27,7.3,73.2,2.2,3.3,2,0,0,1,37.43
+Player_0636,26,CDM,Ligue 1,Brazilian,Right,24,5,4,0.21,0.17,6.6,79.4,4.2,2.7,2,0,0,2,22.75
+Player_0637,28,ST,Bundesliga,Dutch,Right,22,18,3,0.82,0.14,7.1,82.7,1.0,2.3,4,0,0,2,50.73
+Player_0638,22,ST,Premier League,Italian,Right,21,21,3,1.0,0.14,6.0,89.3,4.2,2.1,4,0,0,1,55.58
+Player_0639,16,RW,Ligue 1,Brazilian,Right,41,17,14,0.41,0.34,8.0,92.0,4.2,2.6,1,1,14,2,31.24
+Player_0640,22,RW,La Liga,German,Right,43,23,9,0.53,0.21,7.6,82.4,1.2,2.8,2,0,0,3,49.02
+Player_0641,26,CB,La Liga,Brazilian,Right,31,6,3,0.19,0.1,6.7,73.8,3.0,3.7,1,0,0,1,26.48
+Player_0642,16,CDM,Bundesliga,Argentine,Right,27,1,3,0.04,0.11,6.9,84.0,1.7,2.5,3,0,0,2,14.8
+Player_0643,19,CAM,Ligue 1,English,Right,29,18,16,0.62,0.55,6.7,85.8,2.1,1.4,3,0,0,3,33.56
+Player_0644,23,ST,La Liga,Spanish,Right,40,23,1,0.57,0.03,6.3,71.4,1.3,1.0,1,0,0,0,53.61
+Player_0645,30,RW,Bundesliga,Dutch,Left,25,19,10,0.76,0.4,7.1,80.7,2.0,3.0,3,1,23,1,40.25
+Player_0646,27,CM,Ligue 1,Italian,Right,28,7,11,0.25,0.39,5.5,81.9,2.3,2.6,2,0,0,2,27.06
+Player_0647,29,RB,Ligue 1,Brazilian,Right,31,5,4,0.16,0.13,7.6,90.0,1.5,2.9,3,0,0,1,19.14
+Player_0648,27,LB,Bundesliga,German,Right,42,6,2,0.14,0.05,6.9,77.9,0.5,1.8,3,0,0,3,19.16
+Player_0649,17,RW,La Liga,Portuguese,Right,33,11,10,0.33,0.3,6.4,71.4,2.0,2.6,2,0,0,2,29.38
+Player_0650,22,CB,Serie A,Portuguese,Right,32,7,4,0.22,0.12,8.6,89.9,3.1,2.7,2,1,20,1,28.23
+Player_0651,25,LB,La Liga,Argentine,Right,24,5,2,0.21,0.08,7.9,85.3,0.5,3.2,3,0,0,2,25.52
+Player_0652,28,CAM,Bundesliga,English,Right,21,16,16,0.76,0.76,7.6,75.4,3.9,1.1,3,1,18,3,43.75
+Player_0653,25,LW,Ligue 1,French,Right,42,19,10,0.45,0.24,8.3,81.1,4.1,2.1,3,1,14,2,44.13
+Player_0654,18,GK,La Liga,English,Right,43,4,2,0.09,0.05,7.3,93.4,0.6,3.8,3,0,0,1,16.61
+Player_0655,18,LB,Bundesliga,French,Right,34,7,0,0.21,0.0,7.6,78.6,2.6,0.6,1,0,0,2,18.18
+Player_0656,31,RB,La Liga,English,Right,26,9,2,0.35,0.08,7.1,86.4,2.1,2.3,4,0,0,0,24.07
+Player_0657,26,CDM,Serie A,English,Right,41,6,3,0.15,0.07,6.6,88.0,4.3,3.7,2,0,0,3,23.88
+Player_0658,23,CB,Serie A,Portuguese,Left,21,5,0,0.24,0.0,5.6,82.7,2.6,3.7,4,1,15,5,28.47
+Player_0659,24,CAM,La Liga,Spanish,Right,42,21,12,0.5,0.29,6.9,91.8,1.4,2.3,4,0,0,3,57.41
+Player_0660,24,LW,Bundesliga,Argentine,Left,38,20,12,0.53,0.32,6.9,87.9,2.0,1.5,4,0,0,2,39.45
+Player_0661,23,LW,Serie A,Dutch,Right,42,11,10,0.26,0.24,6.5,80.9,2.6,3.4,4,1,18,0,36.43
+Player_0662,32,LW,Ligue 1,German,Left,31,18,11,0.58,0.35,7.8,82.6,1.0,3.2,2,1,22,2,37.32
+Player_0663,25,CB,Serie A,Italian,Right,35,2,1,0.06,0.03,6.2,82.6,4.3,1.5,1,1,16,1,27.6
+Player_0664,28,LB,Premier League,German,Right,42,3,6,0.07,0.14,7.4,74.2,2.1,2.8,3,1,19,3,39.3
+Player_0665,20,ST,Bundesliga,French,Right,39,23,5,0.59,0.13,6.4,90.2,1.6,3.9,3,0,0,3,41.43
+Player_0666,16,RW,Ligue 1,English,Right,35,27,11,0.77,0.31,7.3,73.5,1.6,0.7,3,1,21,2,35.04
+Player_0667,18,CB,La Liga,Portuguese,Right,33,5,4,0.15,0.12,6.2,81.6,3.0,0.8,1,0,0,5,19.93
+Player_0668,28,CDM,La Liga,English,Right,42,7,3,0.17,0.07,6.2,74.2,0.5,1.5,4,0,0,3,31.77
+Player_0669,25,ST,Bundesliga,Argentine,Right,31,19,4,0.61,0.13,7.1,79.9,0.9,3.9,4,0,0,2,52.5
+Player_0670,29,RB,Serie A,Italian,Right,26,5,4,0.19,0.15,5.8,77.3,1.5,2.4,3,0,0,0,21.03
+Player_0671,21,LB,Bundesliga,Italian,Left,33,3,2,0.09,0.06,7.4,86.9,4.1,0.6,4,1,18,3,25.25
+Player_0672,19,CB,Serie A,English,Right,44,0,1,0.0,0.02,7.3,87.3,4.1,2.5,4,1,16,3,25.24
+Player_0673,23,GK,Bundesliga,Belgian,Right,32,7,0,0.22,0.0,7.3,66.2,2.7,3.0,3,1,15,1,18.57
+Player_0674,23,CM,Bundesliga,English,Right,23,5,6,0.22,0.26,7.7,83.4,3.0,3.5,1,1,19,8,36.27
+Player_0675,24,CB,Bundesliga,Argentine,Left,20,8,8,0.4,0.4,7.0,86.5,4.4,2.7,3,1,14,2,28.06
+Player_0676,26,RB,Premier League,French,Left,40,1,1,0.03,0.03,6.9,80.5,3.7,2.5,1,1,17,1,32.42
+Player_0677,30,ST,Ligue 1,Spanish,Right,38,26,2,0.68,0.05,6.9,84.2,1.9,0.6,3,0,0,0,44.58
+Player_0678,28,RW,Bundesliga,French,Right,32,19,11,0.59,0.34,7.5,87.6,1.1,1.2,3,1,13,3,51.74
+Player_0679,18,CM,Premier League,Belgian,Right,30,3,9,0.1,0.3,8.1,68.7,2.2,2.2,2,0,0,1,31.1
+Player_0680,26,LB,Ligue 1,Belgian,Right,27,5,3,0.19,0.11,5.7,95.0,3.8,0.9,2,1,18,2,21.44
+Player_0681,26,CDM,Ligue 1,Argentine,Left,30,9,0,0.3,0.0,6.0,88.5,2.9,1.1,1,1,18,2,27.05
+Player_0682,20,RW,Premier League,German,Right,25,14,14,0.56,0.56,6.6,87.6,2.5,2.7,4,0,0,2,44.9
+Player_0683,17,ST,Ligue 1,Portuguese,Left,22,17,4,0.77,0.18,6.6,85.0,1.9,0.9,4,1,13,2,29.24
+Player_0684,28,CB,Premier League,Portuguese,Right,25,7,7,0.28,0.28,7.2,82.5,2.4,1.4,2,1,20,1,32.18
+Player_0685,16,CB,Bundesliga,Dutch,Left,33,6,0,0.18,0.0,7.4,64.3,2.9,2.0,2,1,19,0,24.68
+Player_0686,22,GK,La Liga,French,Left,40,5,5,0.12,0.12,6.9,77.6,1.0,3.0,4,0,0,1,21.2
+Player_0687,22,CB,Ligue 1,Argentine,Left,37,4,5,0.11,0.14,6.6,80.5,0.8,1.0,1,0,0,2,14.82
+Player_0688,20,ST,La Liga,Italian,Right,34,23,6,0.68,0.18,6.5,85.7,2.9,1.9,1,1,25,1,46.11
+Player_0689,28,CDM,La Liga,Belgian,Right,35,8,6,0.23,0.17,6.8,83.0,2.1,0.9,4,0,0,5,31.75
+Player_0690,28,CDM,Ligue 1,Portuguese,Right,22,6,9,0.27,0.41,6.9,76.4,3.4,1.6,2,1,10,2,27.01
+Player_0691,26,CB,Ligue 1,Belgian,Right,37,4,5,0.11,0.14,6.7,81.7,0.6,2.6,2,1,21,3,24.94
+Player_0692,30,CAM,Ligue 1,Argentine,Right,24,19,13,0.79,0.54,6.9,73.1,0.6,1.1,1,0,0,2,38.96
+Player_0693,27,RW,La Liga,Brazilian,Right,37,13,6,0.35,0.16,6.4,96.0,2.6,2.5,2,0,0,4,47.48
+Player_0694,26,RW,Bundesliga,Argentine,Right,30,11,10,0.37,0.33,6.5,73.1,3.3,3.2,3,0,0,2,39.17
+Player_0695,22,CDM,Bundesliga,Dutch,Right,34,3,2,0.09,0.06,8.3,81.2,2.2,1.5,2,0,0,1,27.46
+Player_0696,28,GK,Serie A,English,Left,34,5,4,0.15,0.12,6.0,74.6,2.1,0.6,4,0,0,2,17.54
+Player_0697,20,CB,Serie A,English,Right,23,7,1,0.3,0.04,7.6,80.6,0.9,2.0,2,0,0,6,16.83
+Player_0698,25,CB,Premier League,Belgian,Right,23,10,3,0.43,0.13,7.3,83.8,1.0,2.2,1,1,15,1,40.1
+Player_0699,23,CDM,Serie A,Italian,Right,23,2,4,0.09,0.17,7.2,79.9,0.6,3.7,2,1,22,3,24.96
+Player_0700,30,CAM,Ligue 1,German,Left,43,16,11,0.37,0.26,6.2,86.3,4.5,2.4,2,0,0,1,32.49
+Player_0701,20,LB,La Liga,English,Right,28,2,3,0.07,0.11,6.7,76.5,2.5,2.0,2,0,0,2,20.78
+Player_0702,20,CDM,Serie A,Brazilian,Right,29,8,3,0.28,0.1,8.1,91.5,2.4,3.8,1,0,0,0,22.67
+Player_0703,23,RW,Ligue 1,English,Left,37,14,9,0.38,0.24,7.2,76.8,1.8,1.6,4,0,0,1,28.46
+Player_0704,27,CDM,La Liga,English,Right,43,2,1,0.05,0.02,7.3,81.7,3.5,3.6,1,1,20,0,39.27
+Player_0705,20,LW,Ligue 1,Portuguese,Right,40,16,15,0.4,0.38,7.0,79.7,0.6,1.0,2,1,14,2,34.84
+Player_0706,21,GK,Premier League,Dutch,Right,39,2,2,0.05,0.05,6.9,94.0,3.3,3.1,3,1,16,2,27.89
+Player_0707,19,CAM,Serie A,Argentine,Left,32,19,18,0.59,0.56,8.0,85.9,1.3,3.6,1,0,0,1,43.54
+Player_0708,26,GK,Bundesliga,Belgian,Right,21,2,8,0.1,0.38,7.5,77.8,3.7,1.8,2,0,0,3,21.61
+Player_0709,25,CB,Serie A,Italian,Left,40,6,4,0.15,0.1,7.3,84.4,2.0,0.7,4,1,20,5,27.55
+Player_0710,28,LW,Bundesliga,German,Right,24,25,15,1.04,0.62,7.0,85.0,1.8,2.2,4,0,0,4,49.33
+Player_0711,24,CAM,Serie A,French,Right,25,23,19,0.92,0.76,5.8,85.9,4.5,2.1,3,0,0,6,44.95
+Player_0712,20,ST,Ligue 1,Dutch,Right,33,15,3,0.45,0.09,7.7,75.5,1.0,0.6,1,0,0,3,36.87
+Player_0713,28,RW,Premier League,German,Left,39,20,14,0.51,0.36,6.6,85.3,1.2,0.8,1,0,0,1,62.82
+Player_0714,24,LB,Bundesliga,French,Right,20,3,2,0.15,0.1,7.2,73.1,1.5,2.5,4,0,0,2,22.06
+Player_0715,25,CM,La Liga,Italian,Right,40,4,12,0.1,0.3,7.5,78.2,0.9,3.0,4,1,13,2,43.47
+Player_0716,24,RW,Bundesliga,French,Right,41,18,9,0.44,0.22,6.3,88.2,0.6,0.8,1,1,13,2,47.17
+Player_0717,24,GK,Serie A,French,Right,20,3,3,0.15,0.15,6.7,75.0,2.2,2.7,4,1,26,3,23.53
+Player_0718,25,CM,Bundesliga,Brazilian,Left,22,4,10,0.18,0.45,7.7,79.5,4.2,2.1,1,0,0,0,32.81
+Player_0719,26,CDM,Premier League,Argentine,Right,36,5,3,0.14,0.08,7.8,78.7,3.3,3.2,3,0,0,3,33.37
+Player_0720,21,CAM,Serie A,English,Right,25,17,11,0.68,0.44,5.8,73.6,0.6,1.6,3,1,12,4,45.08
+Player_0721,24,CDM,Bundesliga,Dutch,Right,24,3,0,0.12,0.0,6.6,75.4,4.3,1.6,3,0,0,0,27.09
+Player_0722,21,CDM,La Liga,German,Right,39,4,2,0.1,0.05,5.6,86.5,3.3,0.8,2,1,22,3,23.68
+Player_0723,25,CAM,Serie A,Brazilian,Right,35,20,17,0.57,0.49,7.0,76.3,2.9,2.9,3,0,0,6,45.4
+Player_0724,24,ST,Premier League,German,Right,34,19,2,0.56,0.06,6.4,96.0,1.8,3.6,3,1,22,4,52.1
+Player_0725,21,RB,Ligue 1,Belgian,Left,44,6,3,0.14,0.07,6.6,70.7,2.9,2.5,2,1,18,3,21.96
+Player_0726,25,CM,La Liga,Italian,Right,41,3,12,0.07,0.29,6.6,82.3,3.0,3.2,4,1,12,3,40.78
+Player_0727,23,RW,Premier League,Dutch,Right,20,22,8,1.1,0.4,7.9,80.3,1.8,3.0,1,1,14,2,54.01
+Player_0728,18,CAM,Premier League,French,Right,26,19,11,0.73,0.42,6.8,82.9,2.9,2.9,1,1,18,2,56.85
+Player_0729,27,RW,Serie A,Spanish,Right,32,20,8,0.62,0.25,7.5,74.1,3.3,0.9,3,1,21,1,54.7
+Player_0730,19,RB,Bundesliga,French,Left,31,4,3,0.13,0.1,6.6,88.4,3.8,1.1,3,1,19,2,24.14
+Player_0731,23,RW,La Liga,Belgian,Left,21,21,19,1.0,0.9,6.0,65.3,1.1,3.4,3,0,0,0,44.19
+Player_0732,16,GK,La Liga,French,Left,37,6,1,0.16,0.03,7.0,91.0,3.3,3.1,1,0,0,3,12.95
+Player_0733,23,CM,Bundesliga,Portuguese,Right,25,9,14,0.36,0.56,7.4,87.5,0.9,0.9,3,0,0,3,34.24
+Player_0734,29,RB,Bundesliga,Portuguese,Right,30,7,5,0.23,0.17,7.6,78.3,2.0,3.8,1,1,23,0,27.27
+Player_0735,23,CDM,Ligue 1,French,Left,38,10,4,0.26,0.11,6.9,69.4,1.0,3.2,3,1,16,1,23.11
+Player_0736,25,RB,Ligue 1,Dutch,Left,32,6,6,0.19,0.19,6.9,90.8,0.9,3.1,1,0,0,2,19.21
+Player_0737,31,CM,La Liga,Italian,Right,29,11,9,0.38,0.31,6.2,85.1,4.3,1.4,4,0,0,1,31.98
+Player_0738,28,CB,Ligue 1,Portuguese,Right,33,3,8,0.09,0.24,7.4,79.5,1.1,1.4,4,0,0,2,17.18
+Player_0739,25,GK,Premier League,French,Right,38,5,3,0.13,0.08,7.3,85.2,1.2,1.3,4,1,17,1,26.52
+Player_0740,21,LB,La Liga,Argentine,Right,42,4,4,0.1,0.1,6.1,89.9,0.9,1.4,2,0,0,1,17.64
+Player_0741,28,LB,Premier League,Belgian,Left,22,5,2,0.23,0.09,6.3,96.0,4.5,2.8,1,0,0,2,25.39
+Player_0742,18,RB,Bundesliga,Italian,Right,32,7,3,0.22,0.09,8.1,82.0,2.3,0.5,3,0,0,5,18.44
+Player_0743,24,LW,Bundesliga,German,Right,41,31,17,0.76,0.41,8.6,75.3,3.1,1.2,2,0,0,3,47.18
+Player_0744,25,LW,Premier League,German,Right,44,18,14,0.41,0.32,6.5,76.0,4.0,3.4,4,0,0,1,54.51
+Player_0745,23,CAM,Ligue 1,Brazilian,Right,27,12,16,0.44,0.59,6.4,81.2,4.0,1.6,3,0,0,2,30.05
+Player_0746,24,ST,La Liga,Belgian,Left,30,23,2,0.77,0.07,6.6,78.5,1.3,2.7,4,0,0,3,47.05
+Player_0747,30,LW,Ligue 1,Argentine,Left,24,16,12,0.67,0.5,6.5,81.8,4.5,2.9,1,1,17,1,30.37
+Player_0748,26,LB,Ligue 1,French,Right,25,2,1,0.08,0.04,6.3,91.9,3.1,3.8,4,0,0,2,14.89
+Player_0749,16,CM,La Liga,Argentine,Left,35,6,15,0.17,0.43,6.5,79.4,4.2,2.3,1,1,15,2,33.04
+Player_0750,29,LW,Serie A,English,Right,21,18,12,0.86,0.57,7.7,76.1,1.5,3.9,2,1,19,1,49.4
+Player_0751,16,LB,Bundesliga,Spanish,Right,42,8,4,0.19,0.1,6.8,83.8,3.2,3.4,1,0,0,4,14.83
+Player_0752,31,GK,Bundesliga,Argentine,Right,37,4,1,0.11,0.03,6.4,88.2,3.4,2.4,2,1,16,0,20.5
+Player_0753,27,LW,Ligue 1,Portuguese,Left,32,17,13,0.53,0.41,7.5,73.1,0.6,1.7,3,0,0,2,32.36
+Player_0754,24,RW,Serie A,German,Right,25,27,15,1.08,0.6,7.1,91.5,1.3,4.0,1,0,0,2,52.26
+Player_0755,18,CM,Premier League,Brazilian,Right,31,5,10,0.16,0.32,7.0,96.0,4.5,4.0,1,0,0,2,26.13
+Player_0756,26,GK,Premier League,English,Right,36,5,6,0.14,0.17,7.7,86.9,3.8,2.0,3,0,0,1,24.86
+Player_0757,30,LW,Bundesliga,Portuguese,Right,41,21,13,0.51,0.32,7.7,96.0,1.8,3.4,3,0,0,4,44.54
+Player_0758,23,LB,Premier League,German,Left,25,5,5,0.2,0.2,7.0,83.1,2.5,0.7,2,1,16,3,30.78
+Player_0759,24,LB,Premier League,Brazilian,Right,23,9,3,0.39,0.13,7.3,88.4,1.9,1.8,3,1,17,4,30.69
+Player_0760,28,CM,Serie A,Spanish,Right,32,4,7,0.12,0.22,7.4,92.9,3.5,0.7,2,0,0,0,31.38
+Player_0761,24,LW,Premier League,German,Right,33,22,14,0.67,0.42,7.0,82.5,4.0,1.4,3,1,20,2,51.74
+Player_0762,28,CB,Ligue 1,German,Right,28,5,6,0.18,0.21,6.8,77.7,1.9,3.7,3,1,15,2,25.5
+Player_0763,18,LB,Serie A,German,Right,40,5,1,0.12,0.03,7.1,80.3,2.1,1.9,1,1,11,4,19.59
+Player_0764,27,RW,Ligue 1,English,Right,32,22,10,0.69,0.31,6.5,75.5,3.1,3.3,4,0,0,0,38.55
+Player_0765,25,RW,La Liga,Italian,Right,31,25,14,0.81,0.45,6.8,76.9,1.7,2.0,3,0,0,3,49.63
+Player_0766,22,LW,Ligue 1,Italian,Left,27,20,10,0.74,0.37,7.2,96.0,1.9,3.6,3,0,0,2,33.47
+Player_0767,20,CM,Ligue 1,Portuguese,Right,23,6,11,0.26,0.48,7.1,95.6,4.4,3.8,1,0,0,0,23.33
+Player_0768,21,RW,Premier League,Belgian,Right,41,15,12,0.37,0.29,6.7,96.0,1.6,1.3,1,0,0,2,40.15
+Player_0769,24,RW,Bundesliga,Brazilian,Right,31,11,13,0.35,0.42,8.0,88.6,1.3,0.7,2,1,13,3,49.88
+Player_0770,28,LW,Serie A,French,Right,25,13,9,0.52,0.36,7.8,77.0,1.2,2.1,1,0,0,2,37.22
+Player_0771,28,RB,Ligue 1,Portuguese,Right,20,5,2,0.25,0.1,7.7,84.1,1.1,1.5,3,1,18,2,23.77
+Player_0772,28,CB,Bundesliga,English,Left,41,5,4,0.12,0.1,7.4,74.0,3.3,2.4,1,0,0,1,27.48
+Player_0773,23,ST,La Liga,Spanish,Right,43,26,7,0.6,0.16,6.9,73.6,2.9,3.4,3,1,12,2,65.12
+Player_0774,22,LW,Serie A,Italian,Right,40,12,9,0.3,0.23,6.5,69.9,3.6,2.8,2,1,21,0,39.65
+Player_0775,31,CM,Ligue 1,Belgian,Right,35,7,18,0.2,0.51,7.2,96.0,1.8,3.0,2,0,0,2,27.36
+Player_0776,25,CB,La Liga,Italian,Right,29,4,5,0.14,0.17,6.4,96.0,4.1,2.6,2,1,19,0,30.14
+Player_0777,29,CAM,Bundesliga,Spanish,Right,44,16,9,0.36,0.2,7.4,81.2,2.9,2.2,1,0,0,2,49.76
+Player_0778,24,RW,La Liga,Brazilian,Right,25,20,16,0.8,0.64,7.0,91.8,2.6,1.3,3,0,0,5,53.51
+Player_0779,20,RB,Bundesliga,Belgian,Right,42,6,5,0.14,0.12,6.1,88.9,4.2,1.2,3,0,0,2,18.84
+Player_0780,27,ST,Ligue 1,English,Right,43,20,3,0.47,0.07,6.8,75.3,1.1,2.3,2,0,0,1,38.47
+Player_0781,22,CAM,Bundesliga,French,Right,27,23,18,0.85,0.67,7.1,85.1,3.7,3.9,1,0,0,2,44.19
+Player_0782,21,CB,Bundesliga,Brazilian,Left,23,3,1,0.13,0.04,7.3,79.8,4.2,1.9,4,1,20,0,29.23
+Player_0783,22,RW,Premier League,Brazilian,Right,39,20,12,0.51,0.31,6.6,81.5,2.4,2.3,2,0,0,3,51.99
+Player_0784,18,ST,Premier League,German,Right,38,20,4,0.53,0.11,6.0,84.7,4.0,3.2,4,0,0,3,39.11
+Player_0785,28,CDM,Premier League,Argentine,Right,40,7,2,0.17,0.05,6.9,78.3,1.2,3.1,1,0,0,0,31.98
+Player_0786,16,LB,Premier League,Dutch,Left,25,6,3,0.24,0.12,6.1,85.9,2.5,0.6,4,0,0,3,16.11
+Player_0787,19,RB,La Liga,German,Right,20,5,2,0.25,0.1,7.1,88.2,0.7,3.2,3,0,0,1,18.94
+Player_0788,24,CDM,Bundesliga,Portuguese,Left,30,8,3,0.27,0.1,6.9,73.6,3.2,1.5,3,1,20,1,36.92
+Player_0789,21,RB,La Liga,Belgian,Right,37,9,1,0.24,0.03,9.5,86.1,2.9,1.7,4,1,20,6,24.15
+Player_0790,31,CDM,Serie A,Italian,Right,44,8,2,0.18,0.05,6.9,80.5,3.0,1.3,1,0,0,6,23.5
+Player_0791,29,CM,Ligue 1,Argentine,Right,29,8,10,0.28,0.34,6.4,93.4,0.6,1.3,3,0,0,2,24.92
+Player_0792,30,LB,Serie A,Argentine,Left,42,4,1,0.1,0.02,6.7,82.2,3.7,3.8,3,0,0,3,16.78
+Player_0793,20,LB,Bundesliga,Brazilian,Right,25,5,3,0.2,0.12,7.5,93.7,1.2,3.4,2,0,0,0,18.03
+Player_0794,19,LB,La Liga,Argentine,Left,44,2,3,0.05,0.07,6.8,79.6,1.4,3.3,3,0,0,2,20.07
+Player_0795,32,LW,Premier League,Brazilian,Right,33,19,5,0.58,0.15,6.4,87.2,3.1,1.1,1,0,0,0,39.57
+Player_0796,21,RW,Bundesliga,Brazilian,Left,44,25,9,0.57,0.2,6.7,71.1,3.2,3.7,1,0,0,3,37.14
+Player_0797,30,LW,Serie A,German,Left,37,16,12,0.43,0.32,7.5,82.2,2.5,1.8,2,1,16,2,41.99
+Player_0798,24,ST,Ligue 1,Spanish,Right,40,20,3,0.5,0.07,7.3,82.4,3.4,0.8,2,0,0,1,36.94
+Player_0799,24,CDM,Serie A,Belgian,Right,27,3,2,0.11,0.07,6.6,75.6,1.0,1.7,3,0,0,1,21.98
+Player_0800,19,CAM,Ligue 1,Argentine,Right,21,20,11,0.95,0.52,6.9,85.4,2.8,3.7,4,0,0,2,29.57
