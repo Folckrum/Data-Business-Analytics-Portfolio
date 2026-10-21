@@ -1,0 +1,43 @@
+platform,content_type,avg_engagement_rate,avg_reach_multiplier,is_recommended
+Instagram,Short Video,5.96,1.57,True
+Instagram,Long Video,2.37,0.62,False
+Instagram,Image Post,2.19,0.58,False
+Instagram,Carousel,5.51,1.45,True
+Instagram,Story,5.13,1.35,True
+Instagram,Text Post,1.61,0.42,False
+Instagram,Live,3.16,0.83,False
+YouTube,Short Video,8.45,1.72,True
+YouTube,Long Video,7.24,1.48,True
+YouTube,Image Post,4.07,0.83,False
+YouTube,Carousel,3.45,0.7,False
+YouTube,Story,3.02,0.62,False
+YouTube,Text Post,3.05,0.62,False
+YouTube,Live,2.14,0.44,False
+TikTok,Short Video,9.69,1.35,True
+TikTok,Long Video,4.83,0.67,False
+TikTok,Image Post,4.67,0.65,False
+TikTok,Carousel,3.57,0.5,False
+TikTok,Story,5.95,0.83,False
+TikTok,Text Post,5.41,0.75,False
+TikTok,Live,9.77,1.36,True
+LinkedIn,Short Video,1.72,0.82,False
+LinkedIn,Long Video,3.75,1.79,True
+LinkedIn,Image Post,1.78,0.85,False
+LinkedIn,Carousel,2.79,1.33,True
+LinkedIn,Story,1.54,0.73,False
+LinkedIn,Text Post,3.3,1.57,True
+LinkedIn,Live,1.51,0.72,False
+Twitter/X,Short Video,2.85,1.78,True
+Twitter/X,Long Video,1.14,0.71,False
+Twitter/X,Image Post,1.24,0.78,False
+Twitter/X,Carousel,1.26,0.79,False
+Twitter/X,Story,1.24,0.78,False
+Twitter/X,Text Post,2.42,1.51,True
+Twitter/X,Live,0.8,0.5,False
+Facebook,Short Video,0.69,0.58,False
+Facebook,Long Video,2.1,1.75,True
+Facebook,Image Post,1.65,1.37,True
+Facebook,Carousel,0.76,0.63,False
+Facebook,Story,0.61,0.5,False
+Facebook,Text Post,0.79,0.66,False
+Facebook,Live,2.08,1.73,True
