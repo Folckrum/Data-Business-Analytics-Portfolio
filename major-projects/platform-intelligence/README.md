@@ -36,6 +36,10 @@ python src/platform_analysis.py
 
 ### Dashboard
 
+**Interactive version:** [`outputs/platform_dashboard_interactive.html`](outputs/platform_dashboard_interactive.html) (download and open in a browser, or use GitHub Pages: hover for details, zoom, click legend items to filter). Regenerate with `python src/interactive_dashboard.py`.
+
+Static preview:
+
 ![Platform Intelligence Dashboard](outputs/platform_intelligence_dashboard.png)
 
 ---

@@ -34,6 +34,10 @@ python src/funnel_analysis.py
 
 ### Dashboard
 
+**Interactive version:** [`outputs/funnel_dashboard_interactive.html`](outputs/funnel_dashboard_interactive.html) (download and open in a browser, or use GitHub Pages: hover for details, zoom, click legend items to filter). Regenerate with `python src/interactive_dashboard.py`.
+
+Static preview:
+
 ![Funnel Dashboard](outputs/funnel_dashboard.png)
 
 ---

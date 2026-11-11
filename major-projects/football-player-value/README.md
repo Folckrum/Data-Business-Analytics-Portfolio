@@ -34,6 +34,10 @@ python src/player_value.py
 
 ### Dashboard
 
+**Interactive version:** [`outputs/football_dashboard_interactive.html`](outputs/football_dashboard_interactive.html) (download and open in a browser, or use GitHub Pages: hover for details, zoom, click legend items to filter). Regenerate with `python src/interactive_dashboard.py`.
+
+Static preview:
+
 ![Football Value Dashboard](outputs/football_value_dashboard.png)
 
 ---
